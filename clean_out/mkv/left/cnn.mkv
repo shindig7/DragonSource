@@ -1,0 +1,446 @@
+null,null,null,null,null
+1 A
+2 The
+1 ATLANTA
+1 Keith
+-
+null,null,null,null,"A"
+1 Republican
+-
+null,null,null,"A","Republican"
+1 lawmaker
+-
+null,null,"A","Republican","lawmaker"
+1 who
+-
+null,"A","Republican","lawmaker","who"
+1 supported
+-
+"A","Republican","lawmaker","who","supported"
+1 Donald
+-
+"Republican","lawmaker","who","supported","Donald"
+1 Trump
+-
+"lawmaker","who","supported","Donald","Trump"
+1 in
+-
+"who","supported","Donald","Trump","in"
+1 the
+-
+"supported","Donald","Trump","in","the"
+1 2016
+-
+"Donald","Trump","in","the","2016"
+1 presidential
+-
+"Trump","in","the","2016","presidential"
+1 election
+-
+"in","the","2016","presidential","election"
+1 said
+-
+"the","2016","presidential","election","said"
+1 a
+-
+"2016","presidential","election","said","a"
+1 special
+-
+"presidential","election","said","a","special"
+1 prosecutor
+-
+"election","said","a","special","prosecutor"
+1 should
+-
+"said","a","special","prosecutor","should"
+1 investigate
+-
+"a","special","prosecutor","should","investigate"
+1 reported
+-
+"special","prosecutor","should","investigate","reported"
+1 communications
+-
+"prosecutor","should","investigate","reported","communications"
+1 between
+-
+"should","investigate","reported","communications","between"
+1 the
+-
+"investigate","reported","communications","between","the"
+1 Trump
+-
+"reported","communications","between","the","Trump"
+1 campaign
+-
+"communications","between","the","Trump","campaign"
+1 and
+-
+"between","the","Trump","campaign","and"
+1 Russians
+-
+"the","Trump","campaign","and","Russians"
+1 known
+-
+"Trump","campaign","and","Russians","known"
+1 to
+-
+"campaign","and","Russians","known","to"
+1 US
+-
+"and","Russians","known","to","US"
+2 intelligence
+-
+"Russians","known","to","US","intelligence"
+1 not
+1 during
+-
+"known","to","US","intelligence","not"
+1 Attorney
+-
+"to","US","intelligence","not","Attorney"
+1 General
+-
+"US","intelligence","not","Attorney","General"
+1 Jeff
+-
+"intelligence","not","Attorney","General","Jeff"
+1 Sessions
+-
+"not","Attorney","General","Jeff","Sessions"
+1 .
+-
+null,null,null,null,"The"
+2 FBI
+-
+null,null,null,"The","FBI"
+2 rejected
+-
+null,null,"The","FBI","rejected"
+2 a
+-
+null,"The","FBI","rejected","a"
+1 recent
+1 request
+-
+"The","FBI","rejected","a","recent"
+1 White
+-
+"FBI","rejected","a","recent","White"
+1 House
+-
+"rejected","a","recent","White","House"
+1 request
+-
+"a","recent","White","House","request"
+1 to
+-
+"recent","White","House","request","to"
+1 publicly
+-
+"White","House","request","to","publicly"
+1 knock
+-
+"House","request","to","publicly","knock"
+1 down
+-
+"request","to","publicly","knock","down"
+1 media
+-
+"to","publicly","knock","down","media"
+2 reports
+-
+"publicly","knock","down","media","reports"
+2 about
+-
+"knock","down","media","reports","about"
+2 communications
+-
+"down","media","reports","about","communications"
+2 between
+-
+"media","reports","about","communications","between"
+2 Donald
+-
+"reports","about","communications","between","Donald"
+2 Trump's
+-
+"about","communications","between","Donald","Trump's"
+2 associates
+-
+"communications","between","Donald","Trump's","associates"
+2 and
+-
+"between","Donald","Trump's","associates","and"
+2 Russians
+-
+"Donald","Trump's","associates","and","Russians"
+1 known
+1 during
+-
+"Trump's","associates","and","Russians","known"
+1 to
+-
+"associates","and","Russians","known","to"
+1 US
+-
+"known","to","US","intelligence","during"
+1 the
+-
+"to","US","intelligence","during","the"
+1 2016
+-
+"US","intelligence","during","the","2016"
+1 presidential
+-
+"intelligence","during","the","2016","presidential"
+1 campaign
+-
+"during","the","2016","presidential","campaign"
+1 multiple
+1 according
+-
+"the","2016","presidential","campaign","multiple"
+1 US
+-
+"2016","presidential","campaign","multiple","US"
+1 officials
+-
+"presidential","campaign","multiple","US","officials"
+1 briefed
+-
+"campaign","multiple","US","officials","briefed"
+1 on
+-
+"multiple","US","officials","briefed","on"
+2 the
+-
+"US","officials","briefed","on","the"
+2 matter
+-
+"officials","briefed","on","the","matter"
+1 tell
+1 .
+-
+"briefed","on","the","matter","tell"
+1 CNN
+-
+"on","the","matter","tell","CNN"
+1 .
+-
+"The","FBI","rejected","a","request"
+1 from
+-
+"FBI","rejected","a","request","from"
+1 White
+-
+"rejected","a","request","from","White"
+1 House
+-
+"a","request","from","White","House"
+1 Chief
+-
+"request","from","White","House","Chief"
+1 of
+-
+"from","White","House","Chief","of"
+1 Staff
+-
+"White","House","Chief","of","Staff"
+1 Reince
+-
+"House","Chief","of","Staff","Reince"
+1 Priebus
+-
+"Chief","of","Staff","Reince","Priebus"
+1 last
+-
+"of","Staff","Reince","Priebus","last"
+1 week
+-
+"Staff","Reince","Priebus","last","week"
+1 to
+-
+"Reince","Priebus","last","week","to"
+1 publicly
+-
+"Priebus","last","week","to","publicly"
+1 knock
+-
+"last","week","to","publicly","knock"
+1 down
+-
+"week","to","publicly","knock","down"
+1 media
+-
+"Trump's","associates","and","Russians","during"
+1 the
+-
+"associates","and","Russians","during","the"
+1 2016
+-
+"and","Russians","during","the","2016"
+1 presidential
+-
+"Russians","during","the","2016","presidential"
+1 campaign
+-
+"the","2016","presidential","campaign","according"
+1 to
+-
+"2016","presidential","campaign","according","to"
+1 multiple
+-
+"presidential","campaign","according","to","multiple"
+1 US
+-
+"campaign","according","to","multiple","US"
+1 officials
+-
+"according","to","multiple","US","officials"
+1 briefed
+-
+"to","multiple","US","officials","briefed"
+1 on
+-
+null,null,null,null,"ATLANTA"
+1 --
+-
+null,null,null,"ATLANTA","--"
+1 Democrats
+-
+null,null,"ATLANTA","--","Democrats"
+1 selected
+-
+null,"ATLANTA","--","Democrats","selected"
+1 former
+-
+"ATLANTA","--","Democrats","selected","former"
+1 Labor
+-
+"--","Democrats","selected","former","Labor"
+1 Secretary
+-
+"Democrats","selected","former","Labor","Secretary"
+1 Tom
+-
+"selected","former","Labor","Secretary","Tom"
+1 Perez
+-
+"former","Labor","Secretary","Tom","Perez"
+1 over
+-
+"Labor","Secretary","Tom","Perez","over"
+1 Minnesota
+-
+"Secretary","Tom","Perez","over","Minnesota"
+1 Rep
+-
+"Tom","Perez","over","Minnesota","Rep"
+1 .
+-
+null,null,null,null,"Keith"
+1 Ellison
+-
+null,null,null,"Keith","Ellison"
+1 as
+-
+null,null,"Keith","Ellison","as"
+1 their
+-
+null,"Keith","Ellison","as","their"
+1 new
+-
+"Keith","Ellison","as","their","new"
+1 chairman
+-
+"Ellison","as","their","new","chairman"
+1 on
+-
+"as","their","new","chairman","on"
+1 Saturday
+-
+"their","new","chairman","on","Saturday"
+1 concluding
+-
+"new","chairman","on","Saturday","concluding"
+1 a
+-
+"chairman","on","Saturday","concluding","a"
+1 hotly
+-
+"on","Saturday","concluding","a","hotly"
+1 contested
+-
+"Saturday","concluding","a","hotly","contested"
+1 race
+-
+"concluding","a","hotly","contested","race"
+1 to
+-
+"a","hotly","contested","race","to"
+1 lead
+-
+"hotly","contested","race","to","lead"
+1 a
+-
+"contested","race","to","lead","a"
+1 battered
+-
+"race","to","lead","a","battered"
+1 party
+-
+"to","lead","a","battered","party"
+1 as
+-
+"lead","a","battered","party","as"
+1 it
+-
+"a","battered","party","as","it"
+1 tries
+-
+"battered","party","as","it","tries"
+1 to
+-
+"party","as","it","tries","to"
+1 channel
+-
+"as","it","tries","to","channel"
+1 the
+-
+"it","tries","to","channel","the"
+1 anti-Donald
+-
+"tries","to","channel","the","anti-Donald"
+1 Trump
+-
+"to","channel","the","anti-Donald","Trump"
+1 energy
+-
+"channel","the","anti-Donald","Trump","energy"
+1 of
+-
+"the","anti-Donald","Trump","energy","of"
+1 its
+-
+"anti-Donald","Trump","energy","of","its"
+1 base
+-
+"Trump","energy","of","its","base"
+1 into
+-
+"energy","of","its","base","into"
+1 an
+-
+"of","its","base","into","an"
+1 electoral
+-
+"its","base","into","an","electoral"
+1 rebound
+-
+"base","into","an","electoral","rebound"
+1 .
+-
+"into","an","electoral","rebound","."
+1 .
+-

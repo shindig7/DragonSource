@@ -1,0 +1,777 @@
+null,null,null,null,null
+1 
+3 The
+2 It
+1 Customers
+1 Chief
+1 He
+1 [[Q-1]]
+1 [[Q-2]]
+1 [[Q-3]]
+1 [[Q-5]]
+1 [[Q-6]]
+1 [[Q-8]]
+1 [[Q-9]]What
+-
+null,null,null,null,""
+1 Private
+-
+null,null,null,"","Private"
+1 messages
+-
+null,null,"","Private","messages"
+1 exchanged
+-
+null,"","Private","messages","exchanged"
+1 on
+-
+"","Private","messages","exchanged","on"
+1 dating
+-
+"Private","messages","exchanged","on","dating"
+1 sites
+-
+"messages","exchanged","on","dating","sites"
+1 hotel
+-
+"exchanged","on","dating","sites","hotel"
+1 bookings
+-
+"on","dating","sites","hotel","bookings"
+1 and
+-
+"dating","sites","hotel","bookings","and"
+1 frames
+-
+"sites","hotel","bookings","and","frames"
+1 from
+-
+"hotel","bookings","and","frames","from"
+1 adult
+-
+"bookings","and","frames","from","adult"
+1 videos
+-
+"and","frames","from","adult","videos"
+1 were
+-
+"frames","from","adult","videos","were"
+1 among
+-
+"from","adult","videos","were","among"
+1 the
+-
+"adult","videos","were","among","the"
+1 data
+-
+"videos","were","among","the","data"
+1 inadvertently
+-
+"were","among","the","data","inadvertently"
+1 exposed
+-
+"among","the","data","inadvertently","exposed"
+1 by
+-
+"the","data","inadvertently","exposed","by"
+1 a
+-
+"data","inadvertently","exposed","by","a"
+1 bug
+-
+"inadvertently","exposed","by","a","bug"
+1 discovered
+-
+"exposed","by","a","bug","discovered"
+1 in
+-
+"by","a","bug","discovered","in"
+1 the
+-
+"a","bug","discovered","in","the"
+1 Cloudflare
+-
+"bug","discovered","in","the","Cloudflare"
+1 network
+-
+"discovered","in","the","Cloudflare","network"
+1 .
+-
+null,null,null,null,"The"
+2 firm
+1 bug
+-
+null,null,null,"The","firm"
+1 protects
+1 whose
+-
+null,null,"The","firm","protects"
+1 websites
+-
+null,"The","firm","protects","websites"
+1 by
+-
+"The","firm","protects","websites","by"
+1 routing
+-
+"firm","protects","websites","by","routing"
+1 their
+-
+"protects","websites","by","routing","their"
+1 traffic
+-
+"websites","by","routing","their","traffic"
+1 through
+-
+"by","routing","their","traffic","through"
+1 its
+-
+"routing","their","traffic","through","its"
+1 own
+-
+"their","traffic","through","its","own"
+1 network
+-
+"traffic","through","its","own","network"
+1 filtering
+-
+"through","its","own","network","filtering"
+1 out
+-
+"its","own","network","filtering","out"
+1 hack
+-
+"own","network","filtering","out","hack"
+1 attacks
+-
+"network","filtering","out","hack","attacks"
+1 .
+-
+null,null,null,null,"It"
+1 has
+1 was
+-
+null,null,null,"It","has"
+1 4
+-
+null,null,"It","has","4"
+1 million
+-
+null,"It","has","4","million"
+1 clients
+-
+"It","has","4","million","clients"
+1 including
+-
+"has","4","million","clients","including"
+1 banks
+-
+"4","million","clients","including","banks"
+1 governments
+-
+"million","clients","including","banks","governments"
+1 and
+-
+"clients","including","banks","governments","and"
+1 shopping
+-
+"including","banks","governments","and","shopping"
+1 sites
+-
+"banks","governments","and","shopping","sites"
+1 .
+-
+null,null,null,null,"Customers"
+1 wouldn't
+-
+null,null,null,"Customers","wouldn't"
+1 necessarily
+-
+null,null,"Customers","wouldn't","necessarily"
+1 know
+-
+null,"Customers","wouldn't","necessarily","know"
+1 which
+-
+"Customers","wouldn't","necessarily","know","which"
+1 of
+-
+"wouldn't","necessarily","know","which","of"
+1 the
+-
+"necessarily","know","which","of","the"
+1 online
+-
+"know","which","of","the","online"
+1 services
+-
+"which","of","the","online","services"
+1 they
+-
+"of","the","online","services","they"
+1 use
+-
+"the","online","services","they","use"
+1 run
+-
+"online","services","they","use","run"
+1 on
+-
+"services","they","use","run","on"
+1 Cloudflare
+-
+"they","use","run","on","Cloudflare"
+1 as
+-
+"use","run","on","Cloudflare","as"
+1 it
+-
+"run","on","Cloudflare","as","it"
+1 is
+-
+"on","Cloudflare","as","it","is"
+1 not
+-
+"Cloudflare","as","it","is","not"
+1 visible
+-
+"as","it","is","not","visible"
+1 .
+-
+null,null,null,"The","bug"
+1 came
+-
+null,null,"The","bug","came"
+1 to
+-
+null,"The","bug","came","to"
+1 light
+-
+"The","bug","came","to","light"
+1 while
+-
+"bug","came","to","light","while"
+1 Cloudflare
+-
+"came","to","light","while","Cloudflare"
+1 was
+-
+"to","light","while","Cloudflare","was"
+1 migrating
+-
+"light","while","Cloudflare","was","migrating"
+1 from
+-
+"while","Cloudflare","was","migrating","from"
+1 older
+-
+"Cloudflare","was","migrating","from","older"
+1 to
+-
+"was","migrating","from","older","to"
+1 newer
+-
+"migrating","from","older","to","newer"
+1 software
+-
+"from","older","to","newer","software"
+1 between
+-
+"older","to","newer","software","between"
+1 13
+-
+"to","newer","software","between","13"
+1 -
+-
+"newer","software","between","13","-"
+1 18
+-
+"software","between","13","-","18"
+1 February
+-
+"between","13","-","18","February"
+1 .
+-
+null,null,null,null,"Chief"
+1 operating
+-
+null,null,null,"Chief","operating"
+1 officer
+-
+null,null,"Chief","operating","officer"
+1 John
+-
+null,"Chief","operating","officer","John"
+1 Graham-Cumming
+-
+"Chief","operating","officer","John","Graham-Cumming"
+1 said
+-
+"operating","officer","John","Graham-Cumming","said"
+1 it
+-
+"officer","John","Graham-Cumming","said","it"
+1 was
+-
+"John","Graham-Cumming","said","it","was"
+1 likely
+-
+"Graham-Cumming","said","it","was","likely"
+1 that
+-
+"said","it","was","likely","that"
+1 in
+-
+"it","was","likely","that","in"
+1 the
+-
+"was","likely","that","in","the"
+1 last
+-
+"likely","that","in","the","last"
+1 week
+-
+"that","in","the","last","week"
+1 around
+-
+"in","the","last","week","around"
+1 120000
+-
+"the","last","week","around","120000"
+1 web
+-
+"last","week","around","120000","web"
+1 pages
+-
+"week","around","120000","web","pages"
+1 per
+-
+"around","120000","web","pages","per"
+1 day
+-
+"120000","web","pages","per","day"
+1 may
+-
+"web","pages","per","day","may"
+1 have
+-
+"pages","per","day","may","have"
+1 contained
+-
+"per","day","may","have","contained"
+1 some
+-
+"day","may","have","contained","some"
+1 unencrypted
+-
+"may","have","contained","some","unencrypted"
+1 private
+-
+"have","contained","some","unencrypted","private"
+1 data
+-
+"contained","some","unencrypted","private","data"
+1 along
+-
+"some","unencrypted","private","data","along"
+1 with
+-
+"unencrypted","private","data","along","with"
+1 other
+-
+"private","data","along","with","other"
+1 junk
+-
+"data","along","with","other","junk"
+1 text
+-
+"along","with","other","junk","text"
+1 along
+-
+"with","other","junk","text","along"
+1 the
+-
+"other","junk","text","along","the"
+1 bottom
+-
+"junk","text","along","the","bottom"
+1 .
+-
+null,null,null,null,"He"
+1 told
+-
+null,null,null,"He","told"
+1 the
+-
+null,null,"He","told","the"
+1 BBC
+-
+null,"He","told","the","BBC"
+1 there
+-
+"He","told","the","BBC","there"
+1 was
+-
+"told","the","BBC","there","was"
+1 no
+-
+"the","BBC","there","was","no"
+1 evidence
+-
+"BBC","there","was","no","evidence"
+1 yet
+-
+"there","was","no","evidence","yet"
+1 that
+-
+"was","no","evidence","yet","that"
+1 the
+-
+"no","evidence","yet","that","the"
+1 data
+-
+"evidence","yet","that","the","data"
+1 had
+-
+"yet","that","the","data","had"
+1 been
+-
+"that","the","data","had","been"
+1 used
+-
+"the","data","had","been","used"
+1 maliciously
+-
+"data","had","been","used","maliciously"
+1 .
+-
+null,null,null,null,"[[Q-1]]"
+1 he
+-
+null,null,null,"[[Q-1]]","he"
+1 said
+-
+null,null,"[[Q-1]]","he","said"
+1 .
+-
+null,null,null,null,"[[Q-2]]"
+1 'Ancient
+-
+null,null,null,"[[Q-2]]","'Ancient"
+1 software'
+-
+null,null,"[[Q-2]]","'Ancient","software'"
+1 Mr
+-
+null,"[[Q-2]]","'Ancient","software'","Mr"
+1 Graham-Cumming
+-
+"[[Q-2]]","'Ancient","software'","Mr","Graham-Cumming"
+1 has
+-
+"'Ancient","software'","Mr","Graham-Cumming","has"
+1 written
+-
+"software'","Mr","Graham-Cumming","has","written"
+1 a
+-
+"Mr","Graham-Cumming","has","written","a"
+1 blog
+-
+"Graham-Cumming","has","written","a","blog"
+1 about
+-
+"has","written","a","blog","about"
+1 what
+-
+"written","a","blog","about","what"
+1 went
+-
+"a","blog","about","what","went"
+1 wrong
+-
+"blog","about","what","went","wrong"
+1 and
+-
+"about","what","went","wrong","and"
+1 how
+-
+"what","went","wrong","and","how"
+1 Cloudflare
+-
+"went","wrong","and","how","Cloudflare"
+1 fixed
+-
+"wrong","and","how","Cloudflare","fixed"
+1 it
+-
+"and","how","Cloudflare","fixed","it"
+1 .
+-
+null,null,null,null,"[[Q-3]]"
+1 he
+-
+null,null,null,"[[Q-3]]","he"
+1 wrote
+-
+null,null,"[[Q-3]]","he","wrote"
+1 .
+-
+null,null,"The","firm","whose"
+1 strapline
+-
+null,"The","firm","whose","strapline"
+1 is
+-
+"The","firm","whose","strapline","is"
+1 [[Q-4]]
+-
+"firm","whose","strapline","is","[[Q-4]]"
+1 has
+-
+"whose","strapline","is","[[Q-4]]","has"
+1 also
+-
+"strapline","is","[[Q-4]]","has","also"
+1 been
+-
+"is","[[Q-4]]","has","also","been"
+1 working
+-
+"[[Q-4]]","has","also","been","working"
+1 with
+-
+"has","also","been","working","with"
+1 the
+-
+"also","been","working","with","the"
+1 major
+-
+"been","working","with","the","major"
+1 search
+-
+"working","with","the","major","search"
+1 engines
+-
+"with","the","major","search","engines"
+1 to
+-
+"the","major","search","engines","to"
+1 get
+-
+"major","search","engines","to","get"
+1 the
+-
+"search","engines","to","get","the"
+1 data
+-
+"engines","to","get","the","data"
+1 scrubbed
+-
+"to","get","the","data","scrubbed"
+1 from
+-
+"get","the","data","scrubbed","from"
+1 their
+-
+"the","data","scrubbed","from","their"
+1 caches
+-
+"data","scrubbed","from","their","caches"
+1 -
+-
+"scrubbed","from","their","caches","-"
+1 snapshots
+-
+"from","their","caches","-","snapshots"
+1 taken
+-
+"their","caches","-","snapshots","taken"
+1 of
+-
+"caches","-","snapshots","taken","of"
+1 pages
+-
+"-","snapshots","taken","of","pages"
+1 at
+-
+"snapshots","taken","of","pages","at"
+1 various
+-
+"taken","of","pages","at","various"
+1 times
+-
+"of","pages","at","various","times"
+1 .
+-
+null,null,null,"It","was"
+1 discovered
+-
+null,null,"It","was","discovered"
+1 by
+-
+null,"It","was","discovered","by"
+1 Google
+-
+"It","was","discovered","by","Google"
+1 engineer
+-
+"was","discovered","by","Google","engineer"
+1 Tavis
+-
+"discovered","by","Google","engineer","Tavis"
+1 Ormandy
+-
+"by","Google","engineer","Tavis","Ormandy"
+1 who
+-
+"Google","engineer","Tavis","Ormandy","who"
+1 compared
+-
+"engineer","Tavis","Ormandy","who","compared"
+1 it
+-
+"Tavis","Ormandy","who","compared","it"
+1 to
+-
+"Ormandy","who","compared","it","to"
+1 the
+-
+"who","compared","it","to","the"
+1 2014
+-
+"compared","it","to","the","2014"
+1 Heartbleed
+-
+"it","to","the","2014","Heartbleed"
+1 bug
+-
+"to","the","2014","Heartbleed","bug"
+1 .
+-
+null,null,null,null,"[[Q-5]]"
+1 he
+-
+null,null,null,"[[Q-5]]","he"
+1 wrote
+-
+null,null,"[[Q-5]]","he","wrote"
+1 in
+-
+null,"[[Q-5]]","he","wrote","in"
+1 a
+-
+"[[Q-5]]","he","wrote","in","a"
+1 log
+-
+"he","wrote","in","a","log"
+1 of
+-
+"wrote","in","a","log","of"
+1 the
+-
+"in","a","log","of","the"
+1 discovery
+-
+"a","log","of","the","discovery"
+1 .
+-
+null,null,null,null,"[[Q-6]]"
+1 Dodged
+-
+null,null,null,"[[Q-6]]","Dodged"
+1 bullet
+-
+null,null,"[[Q-6]]","Dodged","bullet"
+1 Cybersecurity
+-
+null,"[[Q-6]]","Dodged","bullet","Cybersecurity"
+1 expert
+-
+"[[Q-6]]","Dodged","bullet","Cybersecurity","expert"
+1 Prof
+-
+"Dodged","bullet","Cybersecurity","expert","Prof"
+1 Alan
+-
+"bullet","Cybersecurity","expert","Prof","Alan"
+1 Woodward
+-
+"Cybersecurity","expert","Prof","Alan","Woodward"
+1 said
+-
+"expert","Prof","Alan","Woodward","said"
+1 the
+-
+"Prof","Alan","Woodward","said","the"
+1 bug
+-
+"Alan","Woodward","said","the","bug"
+1 had
+-
+"Woodward","said","the","bug","had"
+1 been
+-
+"said","the","bug","had","been"
+1 caused
+-
+"the","bug","had","been","caused"
+1 by
+-
+"bug","had","been","caused","by"
+1 [[Q-7]]
+-
+"had","been","caused","by","[[Q-7]]"
+1 .
+-
+null,null,null,null,"[[Q-8]]"
+1 he
+-
+null,null,null,"[[Q-8]]","he"
+1 said
+-
+null,null,"[[Q-8]]","he","said"
+1 .
+-
+null,null,null,null,"[[Q-9]]What"
+1 it
+-
+null,null,null,"[[Q-9]]What","it"
+1 shows
+-
+null,null,"[[Q-9]]What","it","shows"
+1 bigly
+-
+null,"[[Q-9]]What","it","shows","bigly"
+1 is
+-
+"[[Q-9]]What","it","shows","bigly","is"
+1 that
+-
+"it","shows","bigly","is","that"
+1 we
+-
+"shows","bigly","is","that","we"
+1 may
+-
+"bigly","is","that","we","may"
+1 have
+-
+"is","that","we","may","have"
+1 just
+-
+"that","we","may","have","just"
+1 dodged
+-
+"we","may","have","just","dodged"
+1 a
+-
+"may","have","just","dodged","a"
+1 bullet
+-
+"have","just","dodged","a","bullet"
+1 .
+-
+"just","dodged","a","bullet","."
+1 .
+-

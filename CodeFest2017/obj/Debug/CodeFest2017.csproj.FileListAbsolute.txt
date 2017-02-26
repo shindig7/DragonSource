@@ -1,0 +1,7 @@
+c:\users\great_000\documents\visual studio 2015\Projects\CodeFest2017\CodeFest2017\bin\Debug\CodeFest2017.exe.config
+c:\users\great_000\documents\visual studio 2015\Projects\CodeFest2017\CodeFest2017\bin\Debug\CodeFest2017.exe
+c:\users\great_000\documents\visual studio 2015\Projects\CodeFest2017\CodeFest2017\bin\Debug\CodeFest2017.pdb
+c:\users\great_000\documents\visual studio 2015\Projects\CodeFest2017\CodeFest2017\obj\Debug\CodeFest2017.csprojResolveAssemblyReference.cache
+c:\users\great_000\documents\visual studio 2015\Projects\CodeFest2017\CodeFest2017\obj\Debug\CodeFest2017.exe
+c:\users\great_000\documents\visual studio 2015\Projects\CodeFest2017\CodeFest2017\obj\Debug\CodeFest2017.pdb
+c:\users\great_000\documents\visual studio 2015\Projects\CodeFest2017\CodeFest2017\bin\Debug\TEST_INPUT.txt

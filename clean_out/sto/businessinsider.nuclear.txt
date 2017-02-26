@@ -1,0 +1,481 @@
+A forgotten war technology could safely power Earth for millions of years. Here's why we aren't using it
+
+Humanity may face an energy crisis as the world's population rapidly grows.
+Nuclear power plants can generate bountiful, carbon-free electricity, but their solid fuel is problematic, and aging reactors are being shut down.
+A Cold War-era liquid-fueled reactor design could transform thorium — a radioactive waste from mining — into a practically limitless energy source.
+US engineers proved such a system works during the 1960s. However, the military canceled the project and it was nearly forgotten.
+Companies and governments are now trying to revive and evolve the design, but development costs, regulations, and nuclear-weapons concerns all pose hurdles.
+The lifeblood of modern civilization is affordable, free-flowing energy.
+
+It gives us the power to heat our homes. Grow and refrigerate food. Purify water. Manufacture products. Perform organ transplants. Drive a car. Go to work. Or procrastinate from work by reading a story about the future of energy.
+
+Today's cheap, bountiful supplies make it hard to see humanity's looming energy crisis, but it's possibly coming within our lifetimes. Our numbers will grow from 7.36 billion people today to 9 billion in 2040, an increase of 22%. Rapidly developing nations, however, will supercharge global energy consumption at more than twice that rate.
+
+Fossil fuels could quench the planet's deep thirst for energy, but they'd be a temporary fix at best. Known reserves may dry up within a century or two. And burning up that carbon-based fuel would accelerate climate change, which is already on track to disrupt and jeopardize countless lives.
+
+Meanwhile, renewable energy sources like wind and solar, though key parts of a solution, are not silver bullets — especially if the world is to meet a 2050 deadline set by the Paris Agreement. Energy from fusion is promising, but it's not yet proved to work, let alone on a commercial and competitive scale.
+
+Nuclear reactors, on the other hand, fit the bill: They're dense, reliable, emit no carbon, and — contrary to bitter popular sentiment — are among the safest energy sources on earth. Today, they supply about 20% of America's energy, though by the 2040s, this share may drop to 10% as companies shut down decades-old reactors, according to a July 2016 report released by Idaho National Laboratory (INL).
+
+The good news is that a proven solution is at hand — if we want it badly enough.
+
+molten salt reactor experiment startup glenn seaborg 1968 ornl 14480987473_11700e3d71_k
+Manhattan Project chemist Glenn Seaborg sits at the controls of the Molten Salt Reactor Experiment in 1968. Frank Hoffman/Oak Ridge National Laboratory; Flickr (public domain)
+
+Called a molten-salt reactor, the technology was conceived during the Cold War and forgoes solid nuclear fuel for a liquid one, which it can "burn" with far greater efficiency than any power technology in existence. It also generates a small fraction of the radioactive waste that today's commercial reactors — which all rely on solid fuel — do.
+
+And, in theory, molten-salt reactors can never melt down.
+
+"It's reliable, it's clean, it basically does everything fossil fuel does today," Kirk Sorensen, the chief technology officer of nuclear-energy startup Flibe Energy, told Business Insider. Sorensen was speaking during an episode of Business Insider's podcast Codebreaker, which is produced with National Public Radio's "Marketplace. "
+
+"And it does a whole bunch of things it doesn't do today, like make energy without emitting carbon," he added.
+
+thorium metal sample w oelen wikipedia ccbysa3
+A sample of thorium metal in a glass vial. W. Oelen/Wikipedia (CC-BY-SA 3.0)
+What's more, feeding a molten-salt reactor a radioactive waste from mining, called thorium (which is three to four times more abundant than uranium), can "breed" as much nuclear fuel as it burns up.
+
+Manhattan Project scientist Alvin Weinberg calculated in 1959 that if we could somehow harvest all the thorium in the Earth's crust and use it in this way, we could power civilization for tens of billions of years.
+
+"The technology is viable, the science has been demonstrated," Hans Gougar, a nuclear physicist at INL, told Business Insider.
+
+Demonstrated, because government scientists built two complementary prototypes during the 1950s and '60s.
+
+They weren't good for making nuclear weapons, though, so bureaucrats pulled funding for the revolutionary energy technology. The last working molten-salt reactor shut down in 1969.
+
+Today, entrepreneurs such as Sorensen are working tirelessly to revive and modernize the technology. So are foreign governments like India and China.
+
+China now spends more than $350 million a year developing its variation of the Cold War-era design.
+
+The story of how we got here is neither short nor simple, but it explains why Sorensen and others are betting big on humanity's coming "Thorium Age" — and why the US continues to stumble at its dawn.
+
+The argument for nuclear energy
+three mile island nuclear power plant steam towers GettyImages 110954016
+The Three Mile Island Nuclear Plant in Middletown, Pennsylvania. Jeff Fusco/Getty Images
+
+Its brutalist architecture may not be sexy, but nuclear energy unlocks a truly incredible source of carbon-free fuel. Ounce per ounce, uranium provides roughly 16,000 times more energy than coal and creates millions of times less pollution.
+
+The argument to support growth in nuclear energy is so clear to James Hansen, a seasoned climatologist and outspoken environmentalist, that he passionately advocates for the use and development of the technology.
+
+"To solve the climate problem, policy must be based on facts and not on prejudice. The climate system cares about greenhouse gas emissions — not about whether energy comes from renewable power or abundant nuclear power," Hansen and three other well-known scientists — Ken Caldeira, Kerry Emanuel, and Tom Wigley — wrote in an editorial for The Guardian in 2015.
+
+"Nuclear energy can power whole civilisations, and produce waste streams that are trivial compared to the waste produced by fossil fuel combustion," they wrote. "Nuclear will make the difference between the world missing crucial climate targets or achieving them."
+
+Climate science aside, the economics of nuclear energy are enough of a draw to make the technology worthwhile.
+
+Today, the industry is already profitable, albeit well subsidized. Still, if you level the energy playing field against other power sources by taking into account government subsidies and tax breaks, capital costs, fuel costs, and other factors that affect the price-per-megawatt-hour of a power plant, nuclear energy remains a financial win in the long run.
+
+Nuclear power's 2016 levelized costs make it about twice as cheap as natural gas "peaking" plants (which fire up to meet sudden peaks in energy demand). Nuclear also beats the overall cost of many coal-fired power plants. And that's before you account for the extraordinary hidden costs of fossil fuels against public health and the environment, including particulate pollution (which kills tens of thousands of people a year) and exacerbating climate change.
+
+Nuclear also wins financially against solar rooftops, many fuel-cell energy schemes, and some geothermal and bioenergy plants.
+
+That isn't to say that current nuclear power plants are flawless. However, they're irrefutably amazing power sources, currently meeting one-fifth of the US's energy needs with just 61 power plants. They're also incredibly reliable, always-on sources of baseload electricity, heat, and medically useful radioisotopes.
+
+Yet great titans fall hard, and the reasons why are key to the continued delay of the Thorium Age.
+
+Why nuclear energy is collapsing in America
+
+While new reactors are planned or are coming online soon, many have stalled and the industry has stagnated, with eight of the US's 99 decades-old reactors planned for shutdown by 2025.
+
+What gives?
+
+Subsidies
+solarREUTERS/Stringer
+Flibe Energy's Sorensen partly blames aggressive government subsidization of wind and solar energy, which leads to the problem of negative pricing.
+
+"We've created rules that disturb the energy market substantially," Sorensen said. "The first rule is that whenever wind and solar come online, we have to take the power. That's called grid priority. The second rules is, they're paid no matter how much power they make."
+
+Sorensen characterized this as the "murder" of nuclear energy, since those plants can't be shut on and off quickly. He also said this is hurting the environment by causing companies to invest more heavily in gas plants (which can be ramped up and down quickly).
+
+"These two put together create negative prices, and if you're a nuclear power-plant operator, and you're trying to obviously make money selling power to the grid and the prices go negative for large portions of the day, that's economically unviable," he said. "That's what's causing reactors to get shut down."
+
+But other issues are kneecapping nuclear too.
+
+Time and cost
+trojan nuclear power plant demolition oregon rick bowmer AP_060521021273
+A cooling tower of the Trojan nuclear power plant is demolished on May 21, 2006. The decommissioning process can take decades. Rick Bowmer/Associated Press
+Energy sources such as hydroelectric and wind are still cheaper than nuclear, and a fracking boom has fueled investment in natural-gas-fired power plants.
+
+As a result, nuclear is having a harder time finding a seat at the energy-pricing table.
+
+Reactors also take many years and billions of dollars to permit, build, and license for operation: They're exceedingly large and complex works of engineering (though you only need a high school diploma to operate one once they're finished).
+
+Old age
+The average US reactor is about 35 years old. They can run for decades with constant maintenance. The Oyster Creek nuclear generating station outside of New York City, for example, has operated since 1969. But many are being eyed for shutdown, and once they're shut off, reactors can take more than a decade to decommission, demolish, and bury.
+
+A dysfunctional uranium fuel cycle in the US has not helped, where just 3% to 6.5% of solid uranium fuel is burned up — and the remaining 93% to 97% is treated as radioactive waste and not reprocessed and recycled.
+
+Fear
+fukushima nuclear energy protestors GettyImages 141083757
+A nuclear-energy demonstrator. Matt Cardy/Getty Images
+Then there is society's pervasive anxiety toward nuclear power, often amped to irrational levels.
+
+While events such as Three Mile Island, Chernobyl, and the Fukushima Daiichi disaster stand out in people's minds, the reality does not match up by a long shot.
+
+"Nuclear radiation ticks all the boxes for increasing the fear factor," David Spiegelhalter, a statistician at Cambridge University, told New Scientist after the Fukushima disaster in 2011:
+
+"It is invisible, an unknowable quantity. People don't feel in control of it, and they don't understand it. They feel it is imposed upon them and that it is unnatural. It has the dread quality of causing cancer and birth defects."
+
+But as Spiegelhalter, Sorensen, and others have said, the actual safety record of nuclear power is remarkable.
+
+Fukushima's reactor meltdowns killed no one, according to a 2013 World Health Organization report. Even in "the two most affected locations of Fukushima prefecture," people in the first year would receive only two to three CT chest scans' worth of radiation exposure.
+
+"Let me throw out other names you might not be familiar with: San Bruno. Banqiao Dam," Sorensen said, referring to the two accidents that killed eight (in a 2010 California gas-line explosion) and as many as 230,000 people (in a series of 1975 Chinese dam collapses), respectively.
+
+"These are catastrophic incidents with hydropower and natural gas that really did result in large losses of human life," he said. "And yet the public doesn't have a terror of hydroelectric power or natural gas."
+
+What does the data say about nuclear energy's safety?
+gas masks chernobylAndrew Leatherbarrow
+Measuring immediate deaths against gigawatts of electrical power is a typical way to assess the safety of energy sources, and a 2010 analysis by the Organization for Economic Cooperation and Development (OECD) used this.
+
+But adding in incidental deaths that occur later, such as 9,000 estimated cancer fatalities from Chernobyl (which the OECD left out), does change the numbers, as does including pollution deaths and incidental Banqiao Dam deaths.
+
+In a more apples-to-apples comparison, New Scientist crunched the numbers. That maximum death-toll estimates from that analysis show:
+
+Natural gas is 1.3 times as dangerous as nuclear
+Coal is 27 times as dangerous as nuclear
+Hydroelectric is 46 times as dangerous as nuclear
+In absolute terms, nuclear energy prevents about 80,000 air-pollution-related deaths a year, according to a 2013 study. Groups with antinuclear positions, such as Greenpeace, have struggled to spin these numbers.
+
+"Nuclear power has consistently been proven to be the safest and most effective form of power that we have today, and by using thorium nuclear power, we can take that admirable safety record and go even further," Sorensen said.
+
+But grasping the promise and potential perils of a thorium-powered future, or any other atomic-energy scheme, means you've got to know a thing or two about nuclear physics.
+
+Nuclear Physics 101
+advanced test reactor cherenkov radiation atr nuclear idaho national laboratory flickr nrc ccby2 3954062594_41a026ab14_o
+The blue glow of a nuclear reactor core, caused by Cherenkov radiation — an emission caused when particles move faster than light through a substance (in this case, electrons through water). Nuclear Regulatory Commission/Flickr (CC BY 2.0)
+
+In the United States, about 100,000 people work in the nuclear industry, and each year only a few thousand are awarded an undergraduate degree in physics.
+
+These numbers suggest that more than 99% of us aren't intimately familiar with how nuclear energy works — so here's a bit of background about the atomic magic that provides roughly one-fifth of US power.
+
+What reactors do
+A commercial nuclear reactor's job, like any fossil-fuel-burning plant, is to generate heat. Systems around the reactor harvest that flow of energy, use it to boil water into steam, drive turbines, and ultimately create electricity. Instead of burning fossil fuels, though, nuclear reactors "burn" heavy elements, typically uranium.
+
+highly enriched uranium 235 puck doe
+A puck of highly enriched uranium metal. DOE/Wikimedia Commons (public domain)
+But uranium isn't just uranium.
+
+The element is found as, and can be transformed into, different isotopes, or various weights or "flavors" of the same atomic element:
+
+uranium-238 (U-238), which makes up 99.27% of natural uranium ore
+uranium-235 (U-235), which is just 0.72% of natural ore, but a key ingredient in weapons and reactor fuel
+uranium-233 (U-233), which isn't found in nature yet is essential to thorium molten-salt reactors (more on this later)
+The larger the number, the more chargeless neutrons are jammed into an atomic nucleus, and the heavier it is. Take away or add a neutron, and you can radically alter an isotope's stability (and radioactivity), the types of radiation it emits, and what happens when it's blasted by more neutrons.
+
+The most common isotopes of uranium aren't very radioactive.
+
+For half of any U-238 to decay into lighter atoms — a measure called half-life — it takes 4.6 billion years. That's a very, very long time to spread out a set amount of radiation. U-235 isn't much more radioactive with a half-life of 704 million years.
+
+Compare that to radon-222 (Rn-222), a gas with a half-life of nearly four days. It's tens of billion times as radioactive as U-235, ounce for ounce, simply because Rn-222 decays so much faster. (Which is why it's a problem if it seeps out of the ground and into your basement.)
+
+Yet we don't use Rn-222 as a nuclear fuel. One atomic property matters much more than all the others inside a reactor core.
+
+Going critical
+baseball glove mitt sports shutterstock_18798871Shutterstock
+One of the most important things about a nuclear fuel is the chance its nucleus will react with a flying neutron, a property called neutron cross section.
+
+Physicists measure cross section as an area, in "barns," which you can imagine as a baseball glove. The larger the cross section the bigger the glove, and the more likely it is to catch a neutron — the baseball in this analogy.
+
+The speed of a neutron greatly affects what happens next, and it can get weird.
+
+A neutron can scatter, get captured (and turn a nucleus into a new isotope), or, of tremendous importance, get caught in the glove, suddenly fission it into pieces, and spit out two or three more baseballs in the process.
+
+When those extra neutrons slam into nearby isotopes and cause them to fission, too, it's a chain reaction.
+
+Energy vs. bombs
+Fission chain reactions are the key to nuclear reactors (and nuclear bombs), since each fission event turns a little bit of mass into pure energy.
+
+However, only a handful of isotopes are fissile — meaning they spit out enough neutrons and have the right cross section to "go critical" in a chain reaction.
+
+
+U-238's thermal cross section is about 0.00003 barn. That is a very tiny glove. Meanwhile, U-235's cross section is 583 barns, making its figurative "glove" millions of times as big, and a highly fissile fuel. U-233 is also fissile with a respectable cross section of 529 barns.
+
+This is all gravely important.
+
+A controlled chain reaction is a nuclear reactor. A runaway fission reaction is a nuclear disaster, or a weapon of mass destruction.
+
+It took thousands of the world's brightest scientists in the Manhattan Project many years to crack open these and deeper mysteries of nuclear physics, then design technologies like bombs and reactors, so we'll skip most of that backstory. ("The Making of the Atomic Bomb" by Richard Rhodes is one of the best books to explore that history.)
+
+But in addition to figuring out how to "breed" Pu-239 from U-238, scientists learned to transmute thorium into U-233.
+
+Breeding atoms: as real as alchemy gets
+Thorium
+Crystals of thorium nitrate under a microscope. Flickr/EMSL
+
+If you press Sorensen for a simple analogy that illustrates how energy from thorium works, he may plunk you down in a wet forest.
+
+"If you've ever gone camping as a Boy Scout or something like that, and been caught in a rainstorm and had to start a fire, you know that you're really looking hard for dry wood. Wood that will immediately burn. That's kind of how some of the uranium we have today is," Sorensen said. "It's like the dry wood. It's the kindling."
+
+Which makes thorium the wet wood: Get your nuclear fire hot enough and it will burn too.
+
+"That's an imperfect analogy, but what happens in a thorium reactor is thorium absorbs neutrons and it forms a new fuel — uranium-233 — that can then sustain the reaction," he said. "It can produce enough neutrons to continue turning more thorium into U-233."
+
+This transformative process is called breeding, and it's the key that unlocks the promise of thorium — and explains its eventual abandonment during the Cold War.
+
+Manhattan Project scientists, who embraced a "try everything" race to the bomb, didn't figure out thorium breeding until late in World War II.
+
+They initially focused on enriching U-235 in natural ore from less than 1% to about 90%, which is considered weapons-grade material.
+
+oak ridge national laboratory k 25 uranium 235 enrichment complex ornl flickr 7795431078_3e1dc2f6b9_k
+The mile-long K-25 Building in Oak Ridge, Tennessee, where bomb-grade uranium was enriched for World War II. Ed Westcott/ORNL/DOE; Flickr (public domain)
+But enrichment was painfully inefficient, requiring city-size industrial complexes with mile-long buildings. (All $1 billion worth of enriched uranium went inside the "Little Boy" bomb, which killed more than 100,000 people in Hiroshima.)
+
+Plutonium, an element not found in nature — and specifically the isotope Pu-239 — eventually changed everything, since it was a simpler (though still arduous) path to nuclear weapons.
+
+The highly fissile isotope could be "bred" from common U-238 by pounding it with neutrons, then chemically removing the fresh Pu-239 with a bath of nitric acid — no mile-long buildings full of machinery required.
+
+But in tandem, the Manhattan Project also explored making a third fissile material, U-233, from thorium.
+
+Thorium's first fizzle
+operation teapot met burst
+A nuclear blast from Operation Teapot in 1955 at the Nevada test site. National Nuclear Security Administration/Nevada Site Office; Wikipedia (public domain)
+
+Glenn Seaborg, who discovered plutonium in 1940, "may have seen uranium-233 as a backup plan to the plutonium effort," Sorensen wrote in his 2014 University of Tennessee master's thesis about early research into thorium.
+
+The scheme involved fueling up a reactor, then using the neutrons to bombard thorium — and breeding it into U-233.
+
+But U-233 quickly became a dead end for the military.
+
+For one, U-235 and Pu-239 were precious bomb-making materials, so burning them up in reactors was risky. Breeding U-233 from thorium also created significant amounts of a worrisome contaminant called U-232, which scientists had not yet figured out how to remove.
+
+U-232 emits a lot of alpha radiation, which can trigger spontaneous fission — not good for a nuclear weapon you don't want to randomly explode. Its decay products also emit a lot of gamma radiation, which can wreck electronics and harm or kill people who handle bombs. In addition, gamma rays can blow a bomb's cover, since they are detectable by airplane or satellite, and pass through all but the heaviest radiation shielding.
+
+plutonium 239 metal
+A ring of 99.96% pure plutonium metal. Los Alamos National Laboratory
+Scientists like Seaborg weren't even certain a U-233-powered bomb would blow up very well. Apparently, they were right: A 1955 "Operation Teapot" weapons test using U-233 fizzled (the US government has yet to declassify all the details, though).
+
+So in 1945, with Pu-239 production firmly in place, confidence in that weapons material, and a looming Japanese surrender, the defenders of breeding thorium into U-233 "went to zero," Sorensen told Business Insider.
+
+"Was that the right decision? It's very hard to know," Sorensen said. "Those people thought that they were making a decision to preserve the future for their children [...] So I hesitate to levy judgments on those decisions made in the past."
+
+But in the years leading up to the war's end, Manhattan Project scientists were dreaming up ways to turn their wartime research into commercial power sources, and one group arrived at a brilliant concept: a super-fuel-efficient "breeder" reactor that ran on thorium and U-233.
+
+A powerful postwar revival for thorium
+molten salt reactor experiment scale model oak ridge ornl flickr 21573745744_dfc84b75d5_o
+A see-through scale model of the Molten Salt Reactor Experiment (MSRE). ORNL/Flickr
+
+The concept of the breeder reactor was fairly straightforward.
+
+It would dramatically increase the chances for fission, boost the flow of neutrons, and breed more fissile fuel from a "fertile" material than the reactor burned up. Breeding U-238 into Pu-239 created an excess of plutonium. Meanwhile, breeding thorium into U-233 broke even, burning up just as much fuel as it made.
+
+The choice of fuel makes all the difference.
+
+The plutonium fuel cycle is a great way to make weapons. Meanwhile, the thorium fuel cycle can produce almost limitless energy.
+
+A fluid-fueled design was ultimately envisioned by Manhattan Project scientists to "eliminate the considerable difficulty of fabricating solid fueled elements," Sorensen wrote in his thesis. Liquid fuel also made it easy to remove both useful fission products — for example, for medical procedures, and those that poison nuclear chain reactions. The gas xenon-135 (Xe-135) is a common uranium fission product, and its 3-million-barn cross section gobbles up neutrons and chokes reactors.
+
+Physicist Alvin Weinberg later wrote the idea to use fluid fuels "kind of an obsession" of his, to the extent he eventually succeeded at building his first molten-salt reactors in Tennessee.
+
+Nuclear jets and the first molten-salt reactor
+aircraft nuclear propulsion anp crusader nb 36h jet bomber
+The NB-36H, a jet bomber that flew a nuclear reactor from 1955 through 1957. USAF
+
+When the Air Force launched an effort to build a nuclear-powered bomber in 1947 — part of the Aircraft Nuclear Propulsion (ANP) program — Weinberg, who in 1945 invented the now industry standard light-water reactor (LWR), rose to the occasion.
+
+But Weinberg, then the director of Oak Ridge National Laboratory (ORNL), thought LWRs were too heavy and inefficient for a jet airplane.
+
+In fact, even modern LWRs — which all US commercial nuclear power plants operate today — fission or "burn up" just a few percent of their fuel before it needs to be replaced. That's because neutron-absorbing waste builds up in the fuel, can't be removed, and chokes fission.
+
+"When you go to gas station, do you feel good about burning 10% of it? What about 5%?" Sorensen said, referencing the low burn-up rate of solid-fueled commercial reactors. "You want to burn it all. Why should we expect anything different?"
+
+A molten-salt reactor emerged as the clear choice, since it could be built small: The fluid dramatically increases the efficiency of nuclear fission by making it easy to remove fission products, helping it burn up almost all the nuclear fuel and boosting energy output.
+
+first molten salt reactor airecraft reactor experiment are anp ornl
+A cutaway diagram of the first molten-salt reactor, called the Aircraft Reactor Experiment (ARE). Nuclear Science and Engineering/ORNL
+By 1954, Weinberg's team had built the proof-of-concept Aircraft Reactor Experiment (ARE), a 2.5-megawatt power plant that ran on a small amount of uranium-235 dissolved in molten salt made of fluorine, sodium, and zirconium.
+
+It was the first working molten-salt reactor ever built.
+
+Dissolved inside the reactor's molten salt, U-235 fuel powered a fission chain reaction. The atomic heat warmed up an adjacent loop of coolant (filled with molten sodium) by 300 degrees, from 1,200 to 1,500 degrees Fahrenheit. Incoming air cooled the sodium, and pumps returned it to the fluid-fueled reactor core for reheating.
+
+"The Air Force was delighted by the aircraft reactor experiment," Weinberg wrote in his 1994 autobiography, "The First Nuclear Era," since this was hot enough to drive jet-engine turbines.
+
+Weinberg's new technology never made it inside the "The Crusader" nuclear B-36 bomber (which actually did fly carrying a working reactor) before President John F. Kennedy canceled the entire USAF project in 1961.
+
+However, Weinberg had squeezed years' worth of research on molten-salt reactors out of the effort by then — and wasted no time spinning his work into the Molten-Salt Reactor Experiment (MSRE).
+
+Weinberg's thorium dream is born
+molten salt reactor experiment nuclear reactor 2 msre ornl.JPG
+A top-down view of the Molten Salt Reactor Experiment taken in 1964. Oak Ridge National Laboratory
+
+Weinberg and his colleagues designed MSRE over five years as a prototype for a commercial power plant.
+
+It contained a loop filled with a molten salt made of fluorine, lithium, and beryllium — or FLiBe, the namesake of Sorensen's energy-from-thorium startup — plus zirconium. The salt carried around dissolved U-235 and eventually U-233, making MSRE the world's first reactor to run on U-233 fuel. A second loop of molten salt cooled the reactor.
+
+flibe molten salt test tube ornl
+A test tube of FLiBe molten salt (blue liquid). ORNL
+The reactor went critical in 1965, ran for thousands of hours with only minor issues, and was put into standby mode after its first run ended in 1969. Weinberg thought of MSRE as a proof-of-concept, and he planned to develop it into a full molten salt breeder reactor (MSBR).
+
+This new version would blanket the neutron-shooting core with thorium dissolved in, transforming the element into U-233. Systems would then filter out that new fuel and feed it into the core — all without having to shut down the reactor.
+
+He also envisioned a world flush with thorium molten-salt breeder reactors as cheap, clean energy sources not only for the US but also for the developing world.
+
+According to "SuperFuel," a 2013 book on thorium energy's demise and promise by journalist and author Richard Martin:
+
+"Fed by the dream of inexhaustible, inexpensive energy, Weinberg's projections became grandiose. The Oak Ridge scientists studied the 'construction of giant agro-industrial complexes built around nuclear reactors . . . A complex built around thorium breeders could sustain 100,000 farmers and laborers, 'feed five million others and export fertilizers to grow food for 50 million additional people.'"
+
+But it was not to be.
+
+'It hasn't been done before, so we shouldn't try it at all'
+alvin weinberg john f kennedy molten salt reactor experiment msre ornl
+Alvin Weinberg and Sen. John F. Kennedy in 1959 at the Oak Ridge National Laboratory. Nuclear Regulatory Commission; Wikipedia (CC BY 2.0)
+
+Martin argues that a stubborn naval engineer named Milton Shaw derailed Weinberg's Thorium Age indefinitely.
+
+Shaw led the Atomic Energy Commission's research wing during Weinberg's tenure at ORNL, and in 1972, Shaw issued a rambling report that terminated Weinberg's project. Shaw then diverted the funding to the liquid metal fast breeder reactor — a plutonium-fueled design that cost taxpayers $8 billion but never actually built a reactor.
+
+In "SuperFuel," Martin exposes Shaw's rickety argument for killing the MSRE, a point that forms his book's central argument (his emphasis):
+
+"It was the first of many versions of what would become a familiar argument: It hasn't been done before, and doing it would be challenging. So we shouldn't try it at all."
+
+Martin then argues similar thinking has stuck with the US government ever since Shaw's letter (his emphasis):
+
+"Shaw's reasoning was perfectly circular: Private industry will not invest in the MSBR as a commercial venture without the support of the government. We, the government, won't support it. Thus private industry won't invest in it."
+
+Weinberg was quickly pushed out of ORNL and into retirement. His molten-salt reactors never demonstrated the full thorium fuel cycle — breeding thorium into U-233 — but another project did.
+
+Situated in western Pennsylvania and spearheaded by Shaw's boss, Navy Admiral Hyman Rickover, the Shippingport Atomic Power Station pulled off the feat, yet inside a solid-fueled LWR (one that helped pioneer the development of the first nuclear-powered submarine).
+
+Martin succinctly describes Shippingport's success in his book:
+
+"The Shippingport Atomic Power Station first went critical in December 1957 and produced energy for the Duquesne Light Company for 25 years. It occupies a unique position in the history of nuclear power. It was considered the first full-scale nuclear power reactor with no military use: all it did was produce energy. [...] Shippingport proved that you could use thorium as an inexpensive and safe nuclear fuel in a light-water reactor and that you could breed additional fuel with it. This was not alchemy, but it was close."
+
+Sorensen and other entrepreneurs would discover this history decades later and attempt to revive Weinberg's dream.
+
+Rekindling the thorium dream
+kirk sorensen lftr flibe energy flickr gordon mcdowell ccbysa2 6020596150_6a52b41646_o
+Kirk Sorensen, the president and chief technologist of Flibe Energy. Gordon McDowell/Flickr (CC BY-SA 2.0)
+
+Sorensen first learned of molten-salt reactors in 2000, when he was an engineer at NASA's Marshall Space Flight Center. His task at the time was to figure out how to power human bases on other worlds.
+
+As Martin describes the moment in his 2009 feature for Wired, Sorensen saw a 1958 book called "Fluid Fuel Reactors" on the shelf of a colleague. The book laid out the lessons of Weinberg's molten-salt reactor experiments for ANP, and teased his vision of a thorium-powered future.
+
+
+He ultimately left NASA to join a nuclear-energy company, then struck out on his own to chase the thorium dream with Flibe Energy.
+
+"For the longest time I thought that good ideas always got developed," Sorensen said. "I've learned that the opposite is actually true. Most of the time, good ideas languish. And only through dedicated and committed effort are you able to see a new technology brought to fruition."
+
+In the next decade or so, several safer, more efficient next-generation reactor technologies may hit the market. Sorensen puts them into two groups: molten-salt reactors that don't use thorium or solid-fueled technologies that could, but are comparatively minor (and therefore easier-to-license) upgrades to the LWR design.
+
+Sorensen is a proponent of a third group and the one he's staking his career on: the liquid-fluoride thorium reactor, or LFTR (an acronym pronounced "lifter").
+
+liquid fluoride thorium molten salt reactor design lftr concept 250mwe flibe energy
+Flibe Energy's concept for a liquid-fluoride thorium reactor, or LFTR. Courtesy Flibe Energy
+
+The LFTR is Sorensen's own spin on Weinberg's thorium breeder reactor work from the 1960s.
+
+A 2015 independent review of the LFTR concept by the Electric Power Research Institute deemed it a "potentially transformational technology for meeting future energy needs in the face of uncertain market, policy, and regulatory constraints."
+
+Here's part of the laundry list of reasons why Sorensen and others say that's the case:
+
+Fuel burn-up is extraordinarily high. LFTRs could fission about 99% of their U-233 liquid fuel, compared to a few percent for solid fuel.
+It's easy to clean up. Solid fuels build up fission products, or new elements generated by the splitting of atoms, which poison fission reactions and often end up being treated as waste. Liquid fuels, meanwhile, can be processed "online" — and the fission products continuously removed, refined, and sold.
+There's less waste and it's shorter-lived. For the above reasons, hundreds of times less radioactive waste is left over from LFTR operation compared to LWRs. And what remains requires burial for about 300 years, as opposed to 10,000 years.
+LFTRs operate under safe, normal pressure. All commercial reactors compress water coolant to extreme pressures — upwards of 150 times that found at Earth's surface. One small breach can lead to a catastrophic explosion. If a LFTR pipe breaks, however, molten salt will only spill on the ground and freeze.
+Environmental contamination is far less likely. LWRs can release gases, fuel, and fission products into the air and water. Molten salt freezes and traps most contaminants.
+LFTRs can be made small and modular. LWRs require giant, reinforced-concrete containment vessels that scale with their operating pressure. LFTRs require small containment structures, so they could be made small — possibly to a size that'd fit inside a semi-trailer.
+They should be much cheaper and faster to build. LFTRs don't require many of the expensive safeguards that LWRs do. Their potential to be modular could also lead to mass manufacture of parts and reduced cost.
+LFTR is immune to meltdowns. Molten salt that overheats will expand, slowing down fission.
+The design is "walk-away safe." No nuclear power plant today can claim this. LWRs require backup power systems to cool solid fuel at all times. If power is knocked out to a LFTR, a freeze plug melts and lets the molten salt fall into underground containment units, where it freezes and stops fission.
+Electricity output is better. LFTRs are so hot, operating at roughly 1,800 degrees Fahrenheit, they can use more advanced heat-to-electricity conversion technologies.
+The excess heat is very useful. It could boil and desalinate ocean water into drinking water, help generate hydrogen for fuel cells, break down organic waste into biofuels, and power industrial processes.
+The "kindling" to start a LFTR is flexible. Burning up old nuclear weapons material is possible, since fissile U-233, U-235, or Pu-239 can be used to start the reactor.
+The list goes on.
+
+With these and other benefits, it's easy to get excited about LFTRs, other molten-salt reactors, and even thorium-fueled LWRs.
+
+But it all raises the question...
+
+If thorium reactors are so great, what's the holdup?
+high flux isotope reactor core blue cherenkov radiation ornl
+Cherenkov radiation (blue) emanates from spent fuel being removed from the High Flux Isotope Reactor (HFIR). Oak Ridge National Laboratory
+
+It basically boils down to this: "The science is easy. The engineering is hard."
+
+That's the verdict from Gougar and his colleague at INL, nuclear engineer Dave Petti.
+
+"This is true in many, many advanced systems, nuclear and nonnuclear for that matter, where the scientists' proof of concept is everything to them," Petti told Business Insider. "To the engineer, getting it to the commercial-viability stage is their goal. And those are two very different hills to climb. "
+
+Petti sees three barriers to powering civilization with commercial thorium LFTRs.
+
+Molten salt is a health hazard
+LFTR's molten salt contains beryllium to help regulate nuclear fission, but it's a big health hazard. If there's ever a leak or spill of the material, Petti says it solidifies into a crumbly "snow" that workers might inhale, raising their risk of a lung cancer and a disease called berylliosis.
+
+Molten salt also contains lithium, which a reactor can breed into a radioactive gas called tritium. It's less of a threat than beryllium, but it can bond to water and make it slightly radioactive, possibly leading to cancer and birth defects. Luckily, such tainted water doesn't stick around in the body, which flushes out half of any amount within 10 days, according to a Savannah River Site fact sheet.
+
+Dave Swank, a retired nuclear engineer who worked with commercial reactors for more than 35 years, emailed Business Insider to point out other hazards of molten salts.
+
+"Salts can be very harmful to metal piping (think of salt used on the road and what it does to car bodies)," Swank wrote. "Another challenge is the use of [fluorine] which is highly toxic due to its strong ability to strip electrons."
+
+ 
+
+But good engineering, proper safety protocols, and protective equipment for LFTR staff would minimize these and other risks.
+
+Engineering new reactors takes a long time and costs billions
+The second barrier is the most exhausting but, Petti says, not insurmountable — especially if you have a billionaire in your back pocket.
+
+"You have to demonstrate the technology works, scale it up, and make sure it's reliable for the commercial product," Petti said. "And it takes a lot of time and a lot of money to get the technology from a proof of concept all the way to a commercial endeavor."
+
+LFTRs create weapons-grade material, but it's complicated
+mahmoud ahmadinejad iran nuclear program GettyImages 73849884
+Former Iranian President Mahmoud Ahmadinejad. Majid Saeedi/Getty Images
+Petti said the LFTR's big bugaboo is its proliferation risk, since U-233 fuel could be used to make a nuclear weapon.
+
+Fortunately, built-in contamination — by highly radioactive U-232, as previously noted — is a good deterrent, since the isotope quickly decays into thorium-228, which shoots out deadly (and easy-to-detect) gamma radiation.
+
+Still, there is a way to greatly reduce this danger: an intermediate step between thorium and U-233, called protactinium-233 (Pa-233). This makes it possible to filter out Pa-233 and, months later, get a relatively pure and minimally contaminated lump of U-233.
+
+"When we talk to the nonproliferation experts, the safeguard issues are huge," Petti said. "Being able to prove that you can't do something nefarious has a big impact on the design."
+
+Gougar added: "It's not that NSA doesn't trust Kirk [Sorensen]. It's Iran or North Korea."
+
+That's not to say it'd be easy.
+
+First, it may take a large and easily visible industrial-scale process to cleanse enough stolen U-233 to make a bomb, which minimizes the threat of terrorism. Also, at least as envisioned by Sorensen, the LFTR concept is a closed-loop system — so getting access to the liquid fuel and siphoning off materials would be exceedingly difficult.
+
+North Korea nuclear weapon
+A KN-08 missile on a TEL at a military parade in Pyongyang in 2012. North Korea
+Then again, for a nation like North Korea, stealing material from a US reactor is not the concern. Rather, it's a theft of the blueprints for one, then adapting that design to operate as a powerful new source of weapons-grade nuclear material.
+
+That security concern may also be a moot point, however, since both China and India are already working on developing the technology, and aggressively so.
+
+Given that scenario, it might be better to create and license LFTRs in a highly regulated environment (like the US) so that nonproliferation safeguards are built into the design long before it's exported (or stolen) and adopted.
+
+LFTR advocates also point out that many nations can already create and refine fissile U-235 and Pu-239 with traditional LWRs.
+
+There's still a long road to the Thorium Age
+nuclear power germany flickr bjoern schwarz ccby2 5172953200_bb697d7e67_oBjoern Schwarz/Flickr (CC BY 2.0)
+
+Addressing all of the niggling details, according to current government estimates, might take until 2050 to fully realize a commercial LFTR or other type of thorium molten-salt breeder reactor.
+
+Similarly arduous timescales are true of other "generation four" nuclear reactors, which is why they, too, aren't yet powering US homes and businesses.
+
+"Maneuvering the licensing process is a huge challenge. The regulatory framework is not currently streamlined to support these novel innovative technologies," Rita Baranwal, a materials engineer at INL, told Business Insider.
+
+Long-established nuclear-energy companies aren't interested in overturning decades of "business as usual" to gamble on a technology that's radically different from anything in their portfolios. After all, the LFTR may work but end up being outcompeted on price for the energy it generates.
+
+So instead, most companies are riffing on current LWR and related designs to improve efficiency, safety, and the tortuously slow speed of licensing a reactor.
+
+"To their credit, though, the [Nuclear Regulatory Commission] recognizes this and is working with the [Department of Energy] to improve the licensing process as well, while keeping its mission at the forefront: the safety of the public," Baranwal said.
+
+dave petti solid nuclear fuel pellet inl 3640364326_0090904d24_o
+Dave Petti, a nuclear scientist at Idaho National Laboratory, holds a solid pellet of nuclear fuel. Idaho National Laboratory/Flickr (CC BY 2.0)
+Baranwal is also trying to help companies advance more disruptive designs. After 11 years working in the nuclear-power industry, she left in August 2016 to be the founding director of INL's new Gateway for Accelerating Innovation in Nuclear (GAIN) program.
+
+Per Peterson, a nuclear scientist at the University of California at Berkeley, likened GAIN to NASA's Commercial Orbital Transportation Services — a program that helps commercial spaceflight startups like SpaceX get going.
+
+"You can look at a large company like [United Launch Alliance] and compare its capability to develop rocket designs with SpaceX. The big, incumbent nuclear firms face issues around technological lock-in. And they can't avoid it because of the scale they have to work and operate," said Peterson, who is also on Flibe Energy's board of advisors.
+
+"I think there's real potential for small-scale businesses," he said. "It's like with biotechnology: a small company will get a drug through phase two or three trials, then large pharmaceutical companies pick it up."
+
+Even if a small demonstration LFTR works, it isn't guaranteed to scale up. Some unforeseen design issues may rear their ugly heads. And there are two other things that Baranwal, Gougar, Petti, and others can't help with: market forces and people.
+
+LFTR could be a super-safe slam dunk for commercial power, but antinuclear (or anticompetitive) interests could threaten its future. And if the technology can't compete with natural gas, wind, solar, hydroelectric, legacy nuclear power plants, and more, it could just be a failed business venture — Weinberg's desert-oasis metropolises be damned.
+
+That doesn't mean it's not worth trying: The stakes will only get higher as we use up fossil fuels and humanity's numbers grow.
+
+And as for Sorensen, the LFTR is certainly a dream worth chasing.
+
+"This is something that's going to benefit their future tremendously; it's going to lead to a new age of human success," he said, speaking to readers. "And if they want that, they need to be talking to their elected officials and demanding it, in fact, and saying 'we want to see these things happen.' Because only a society that decides to embrace this kind of technology is going to ultimately realize its benefits."
+
+For more on molten-salt reactors and solving climate change, listen to the "world building" episode of the "Codebreaker" podcast from Business Insider and Marketplace. Subscribe to the series on iTunes or wherever you get your podcasts.

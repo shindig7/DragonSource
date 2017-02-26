@@ -1,0 +1,2619 @@
+null,null,null,null,null
+1 
+1 Frank-Walter
+4 Mr
+1 And
+1 Shares
+1 BMW
+2 Few
+1 There
+1 Germany's
+1 That
+1 Germans
+1 'Very
+1 Nato
+1 Figures
+1 What
+1 Image
+1 [[Q-10]]
+1 At
+1 Later
+1 President
+1 Seven
+1 Referring
+1 [[Q-15]]
+1 Her
+1 [[Q-16]]
+1 Media
+1 He
+1 Elsewhere
+1 This
+-
+null,null,null,null,""
+1 A
+-
+null,null,null,"","A"
+1 statement
+-
+null,null,"","A","statement"
+1 by
+-
+null,"","A","statement","by"
+1 US
+-
+"","A","statement","by","US"
+1 President-elect
+-
+"A","statement","by","US","President-elect"
+1 Donald
+-
+"statement","by","US","President-elect","Donald"
+1 Trump
+-
+"by","US","President-elect","Donald","Trump"
+1 that
+-
+"US","President-elect","Donald","Trump","that"
+1 Nato
+-
+"President-elect","Donald","Trump","that","Nato"
+1 is
+-
+"Donald","Trump","that","Nato","is"
+1 [[Q-1]]
+-
+"Trump","that","Nato","is","[[Q-1]]"
+1 has
+-
+"that","Nato","is","[[Q-1]]","has"
+1 caused
+-
+"Nato","is","[[Q-1]]","has","caused"
+1 [[Q-2]]
+-
+"is","[[Q-1]]","has","caused","[[Q-2]]"
+1 in
+-
+"[[Q-1]]","has","caused","[[Q-2]]","in"
+1 the
+-
+"has","caused","[[Q-2]]","in","the"
+1 alliance
+-
+"caused","[[Q-2]]","in","the","alliance"
+1 Germany's
+-
+"[[Q-2]]","in","the","alliance","Germany's"
+1 foreign
+-
+"in","the","alliance","Germany's","foreign"
+1 minister
+-
+"the","alliance","Germany's","foreign","minister"
+1 says
+-
+"alliance","Germany's","foreign","minister","says"
+1 .
+-
+null,null,null,null,"Frank-Walter"
+1 Steinmeier
+-
+null,null,null,"Frank-Walter","Steinmeier"
+1 said
+-
+null,null,"Frank-Walter","Steinmeier","said"
+1 it
+-
+null,"Frank-Walter","Steinmeier","said","it"
+1 was
+-
+"Frank-Walter","Steinmeier","said","it","was"
+1 a
+-
+"Steinmeier","said","it","was","a"
+1 contradiction
+-
+"said","it","was","a","contradiction"
+1 of
+-
+"it","was","a","contradiction","of"
+1 comments
+-
+"was","a","contradiction","of","comments"
+1 made
+-
+"a","contradiction","of","comments","made"
+1 days
+-
+"contradiction","of","comments","made","days"
+1 ago
+-
+"of","comments","made","days","ago"
+1 by
+-
+"comments","made","days","ago","by"
+1 Mr
+-
+"made","days","ago","by","Mr"
+1 Trump's
+-
+"days","ago","by","Mr","Trump's"
+1 incoming
+-
+"ago","by","Mr","Trump's","incoming"
+1 defence
+-
+"by","Mr","Trump's","incoming","defence"
+1 chief
+-
+"Mr","Trump's","incoming","defence","chief"
+1 .
+-
+null,null,null,null,"Mr"
+3 Trump
+1 Peskov
+-
+null,null,null,"Mr","Trump"
+1 also
+1 was
+1 shaking
+-
+null,null,"Mr","Trump","also"
+1 said
+-
+null,"Mr","Trump","also","said"
+1 German
+-
+"Mr","Trump","also","said","German"
+1 Chancellor
+-
+"Trump","also","said","German","Chancellor"
+1 Angela
+-
+"also","said","German","Chancellor","Angela"
+1 Merkel
+-
+"said","German","Chancellor","Angela","Merkel"
+1 had
+-
+"German","Chancellor","Angela","Merkel","had"
+1 made
+-
+"Chancellor","Angela","Merkel","had","made"
+1 [[Q-3]]
+-
+"Angela","Merkel","had","made","[[Q-3]]"
+1 by
+-
+"Merkel","had","made","[[Q-3]]","by"
+1 admitting
+-
+"had","made","[[Q-3]]","by","admitting"
+1 more
+-
+"made","[[Q-3]]","by","admitting","more"
+1 than
+-
+"[[Q-3]]","by","admitting","more","than"
+1 one
+-
+"by","admitting","more","than","one"
+1 million
+-
+"admitting","more","than","one","million"
+1 migrants
+-
+"more","than","one","million","migrants"
+1 .
+-
+null,null,null,null,"And"
+1 he
+-
+null,null,null,"And","he"
+1 threatened
+-
+null,null,"And","he","threatened"
+1 German
+-
+null,"And","he","threatened","German"
+1 car
+-
+"And","he","threatened","German","car"
+1 makers
+-
+"he","threatened","German","car","makers"
+1 with
+-
+"threatened","German","car","makers","with"
+1 high
+-
+"German","car","makers","with","high"
+1 import
+-
+"car","makers","with","high","import"
+1 tariffs
+-
+"makers","with","high","import","tariffs"
+1 .
+-
+null,null,null,null,"Shares"
+1 in
+-
+null,null,null,"Shares","in"
+1 BMW
+-
+null,null,"Shares","in","BMW"
+1 Volkswagen
+-
+null,"Shares","in","BMW","Volkswagen"
+1 and
+-
+"Shares","in","BMW","Volkswagen","and"
+1 Daimler
+-
+"in","BMW","Volkswagen","and","Daimler"
+1 fell
+-
+"BMW","Volkswagen","and","Daimler","fell"
+1 after
+-
+"Volkswagen","and","Daimler","fell","after"
+1 he
+-
+"and","Daimler","fell","after","he"
+1 warned
+-
+"Daimler","fell","after","he","warned"
+1 that
+-
+"fell","after","he","warned","that"
+1 cars
+-
+"after","he","warned","that","cars"
+1 built
+-
+"he","warned","that","cars","built"
+1 in
+-
+"warned","that","cars","built","in"
+1 Mexico
+-
+"that","cars","built","in","Mexico"
+1 where
+-
+"cars","built","in","Mexico","where"
+1 they
+-
+"built","in","Mexico","where","they"
+1 have
+-
+"in","Mexico","where","they","have"
+1 invested
+-
+"Mexico","where","they","have","invested"
+1 in
+-
+"where","they","have","invested","in"
+1 factories
+-
+"they","have","invested","in","factories"
+1 would
+-
+"have","invested","in","factories","would"
+1 be
+-
+"invested","in","factories","would","be"
+1 taxed
+-
+"in","factories","would","be","taxed"
+1 at
+-
+"factories","would","be","taxed","at"
+1 35%
+-
+"would","be","taxed","at","35%"
+1 if
+-
+"be","taxed","at","35%","if"
+1 exported
+-
+"taxed","at","35%","if","exported"
+1 to
+-
+"at","35%","if","exported","to"
+1 the
+-
+"35%","if","exported","to","the"
+1 US
+-
+"if","exported","to","the","US"
+1 .
+-
+null,null,null,null,"BMW"
+1 said
+-
+null,null,null,"BMW","said"
+1 the
+-
+null,null,"BMW","said","the"
+1 company
+-
+null,"BMW","said","the","company"
+1 would
+-
+"BMW","said","the","company","would"
+1 stick
+-
+"said","the","company","would","stick"
+1 to
+-
+"the","company","would","stick","to"
+1 its
+-
+"company","would","stick","to","its"
+1 plans
+-
+"would","stick","to","its","plans"
+1 to
+-
+"stick","to","its","plans","to"
+1 open
+-
+"to","its","plans","to","open"
+1 a
+-
+"its","plans","to","open","a"
+1 Mexican
+-
+"plans","to","open","a","Mexican"
+1 plant
+-
+"to","open","a","Mexican","plant"
+1 in
+-
+"open","a","Mexican","plant","in"
+1 2019
+-
+"a","Mexican","plant","in","2019"
+1 .
+-
+null,null,"Mr","Trump","was"
+1 giving
+-
+null,"Mr","Trump","was","giving"
+1 an
+-
+"Mr","Trump","was","giving","an"
+1 interview
+-
+"Trump","was","giving","an","interview"
+1 in
+-
+"was","giving","an","interview","in"
+1 New
+-
+"giving","an","interview","in","New"
+1 York
+-
+"an","interview","in","New","York"
+1 to
+-
+"interview","in","New","York","to"
+1 two
+-
+"in","New","York","to","two"
+1 British
+-
+"New","York","to","two","British"
+1 and
+-
+"York","to","two","British","and"
+1 German
+-
+"to","two","British","and","German"
+1 newspapers
+-
+"two","British","and","German","newspapers"
+1 the
+-
+"British","and","German","newspapers","the"
+1 Times
+-
+"and","German","newspapers","the","Times"
+1 and
+-
+"German","newspapers","the","Times","and"
+1 Bild
+-
+"newspapers","the","Times","and","Bild"
+1 at
+-
+"the","Times","and","Bild","at"
+1 Trump
+-
+"Times","and","Bild","at","Trump"
+1 Tower
+-
+"and","Bild","at","Trump","Tower"
+1 .
+-
+null,null,null,null,"Few"
+1 surprises:
+1 expected
+-
+null,null,null,"Few","surprises:"
+1 analysis
+-
+null,null,"Few","surprises:","analysis"
+1 by
+-
+null,"Few","surprises:","analysis","by"
+1 BBC
+-
+"Few","surprises:","analysis","by","BBC"
+1 Berlin
+-
+"surprises:","analysis","by","BBC","Berlin"
+1 correspondent
+-
+"analysis","by","BBC","Berlin","correspondent"
+1 Jenny
+-
+"by","BBC","Berlin","correspondent","Jenny"
+1 Hill
+-
+"BBC","Berlin","correspondent","Jenny","Hill"
+1 Migrants
+-
+"Berlin","correspondent","Jenny","Hill","Migrants"
+1 walk
+-
+"correspondent","Jenny","Hill","Migrants","walk"
+1 on
+-
+"Jenny","Hill","Migrants","walk","on"
+1 a
+-
+"Hill","Migrants","walk","on","a"
+1 platform
+-
+"Migrants","walk","on","a","platform"
+1 after
+-
+"walk","on","a","platform","after"
+1 their
+-
+"on","a","platform","after","their"
+1 arrival
+-
+"a","platform","after","their","arrival"
+1 at
+-
+"platform","after","their","arrival","at"
+1 the
+-
+"after","their","arrival","at","the"
+1 main
+-
+"their","arrival","at","the","main"
+1 railway
+-
+"arrival","at","the","main","railway"
+1 station
+-
+"at","the","main","railway","station"
+1 in
+-
+"the","main","railway","station","in"
+1 Munich
+-
+"main","railway","station","in","Munich"
+1 southern
+-
+"railway","station","in","Munich","southern"
+1 Germany
+-
+"station","in","Munich","southern","Germany"
+1 on
+-
+"in","Munich","southern","Germany","on"
+1 6
+-
+"Munich","southern","Germany","on","6"
+1 September
+-
+"southern","Germany","on","6","September"
+1 2015Image
+-
+"Germany","on","6","September","2015Image"
+1 copyrightGETTY
+-
+"on","6","September","2015Image","copyrightGETTY"
+1 IMAGES
+-
+"6","September","2015Image","copyrightGETTY","IMAGES"
+1 Donald
+-
+"September","2015Image","copyrightGETTY","IMAGES","Donald"
+1 Trump's
+-
+"2015Image","copyrightGETTY","IMAGES","Donald","Trump's"
+1 comments
+-
+"copyrightGETTY","IMAGES","Donald","Trump's","comments"
+1 have
+-
+"IMAGES","Donald","Trump's","comments","have"
+1 caused
+-
+"Donald","Trump's","comments","have","caused"
+1 dismay
+-
+"Trump's","comments","have","caused","dismay"
+1 concern
+-
+"comments","have","caused","dismay","concern"
+1 -
+-
+"have","caused","dismay","concern","-"
+1 but
+-
+"caused","dismay","concern","-","but"
+1 perhaps
+-
+"dismay","concern","-","but","perhaps"
+1 not
+-
+"concern","-","but","perhaps","not"
+1 surprise
+-
+"-","but","perhaps","not","surprise"
+1 -
+-
+"but","perhaps","not","surprise","-"
+1 in
+-
+"perhaps","not","surprise","-","in"
+1 Berlin
+-
+"not","surprise","-","in","Berlin"
+1 .
+-
+null,null,null,"Few","expected"
+1 the
+-
+null,null,"Few","expected","the"
+1 new
+-
+null,"Few","expected","the","new"
+1 transatlantic
+-
+"Few","expected","the","new","transatlantic"
+1 relationship
+-
+"expected","the","new","transatlantic","relationship"
+1 to
+-
+"the","new","transatlantic","relationship","to"
+1 echo
+-
+"new","transatlantic","relationship","to","echo"
+1 the
+-
+"transatlantic","relationship","to","echo","the"
+1 warm
+-
+"relationship","to","echo","the","warm"
+1 and
+-
+"to","echo","the","warm","and"
+1 trusting
+-
+"echo","the","warm","and","trusting"
+1 alliance
+-
+"the","warm","and","trusting","alliance"
+1 nurtured
+-
+"warm","and","trusting","alliance","nurtured"
+1 by
+-
+"and","trusting","alliance","nurtured","by"
+1 Angela
+-
+"trusting","alliance","nurtured","by","Angela"
+1 Merkel
+-
+"alliance","nurtured","by","Angela","Merkel"
+1 and
+-
+"nurtured","by","Angela","Merkel","and"
+1 Barack
+-
+"by","Angela","Merkel","and","Barack"
+1 Obama
+-
+"Angela","Merkel","and","Barack","Obama"
+1 who
+-
+"Merkel","and","Barack","Obama","who"
+1 was
+-
+"and","Barack","Obama","who","was"
+1 a
+-
+"Barack","Obama","who","was","a"
+1 vocal
+-
+"Obama","who","was","a","vocal"
+1 supporter
+-
+"who","was","a","vocal","supporter"
+1 of
+-
+"was","a","vocal","supporter","of"
+1 Mrs
+-
+"a","vocal","supporter","of","Mrs"
+1 Merkel's
+-
+"vocal","supporter","of","Mrs","Merkel's"
+1 refugee
+-
+"supporter","of","Mrs","Merkel's","refugee"
+1 policy
+-
+"of","Mrs","Merkel's","refugee","policy"
+1 .
+-
+null,null,null,null,"There"
+1 is
+-
+null,null,null,"There","is"
+1 anger
+-
+null,null,"There","is","anger"
+1 too
+-
+null,"There","is","anger","too"
+1 .
+-
+null,null,null,null,"Germany's"
+1 outspoken
+-
+null,null,null,"Germany's","outspoken"
+1 Vice-Chancellor
+-
+null,null,"Germany's","outspoken","Vice-Chancellor"
+1 Sigmar
+-
+null,"Germany's","outspoken","Vice-Chancellor","Sigmar"
+1 Gabriel
+-
+"Germany's","outspoken","Vice-Chancellor","Sigmar","Gabriel"
+1 retorted
+-
+"outspoken","Vice-Chancellor","Sigmar","Gabriel","retorted"
+1 that
+-
+"Vice-Chancellor","Sigmar","Gabriel","retorted","that"
+1 the
+-
+"Sigmar","Gabriel","retorted","that","the"
+1 migrant
+-
+"Gabriel","retorted","that","the","migrant"
+1 crisis
+-
+"retorted","that","the","migrant","crisis"
+1 was
+-
+"that","the","migrant","crisis","was"
+1 the
+-
+"the","migrant","crisis","was","the"
+1 result
+-
+"migrant","crisis","was","the","result"
+1 of
+-
+"crisis","was","the","result","of"
+1 [[Q-4]]
+-
+"was","the","result","of","[[Q-4]]"
+1 .
+-
+null,null,null,null,"That"
+1 Mr
+-
+null,null,null,"That","Mr"
+1 Trump
+-
+null,null,"That","Mr","Trump"
+1 should
+-
+null,"That","Mr","Trump","should"
+1 take
+-
+"That","Mr","Trump","should","take"
+1 aim
+-
+"Mr","Trump","should","take","aim"
+1 at
+-
+"Trump","should","take","aim","at"
+1 Germany's
+-
+"should","take","aim","at","Germany's"
+1 car
+-
+"take","aim","at","Germany's","car"
+1 manufacturers
+-
+"aim","at","Germany's","car","manufacturers"
+1 has
+-
+"at","Germany's","car","manufacturers","has"
+1 also
+-
+"Germany's","car","manufacturers","has","also"
+1 raised
+-
+"car","manufacturers","has","also","raised"
+1 eyebrows
+-
+"manufacturers","has","also","raised","eyebrows"
+1 though
+-
+"has","also","raised","eyebrows","though"
+1 few
+-
+"also","raised","eyebrows","though","few"
+1 here
+-
+"raised","eyebrows","though","few","here"
+1 believe
+-
+"eyebrows","though","few","here","believe"
+1 his
+-
+"though","few","here","believe","his"
+1 Congress
+-
+"few","here","believe","his","Congress"
+1 would
+-
+"here","believe","his","Congress","would"
+1 approve
+-
+"believe","his","Congress","would","approve"
+1 the
+-
+"his","Congress","would","approve","the"
+1 35%
+-
+"Congress","would","approve","the","35%"
+1 tax
+-
+"would","approve","the","35%","tax"
+1 he
+-
+"approve","the","35%","tax","he"
+1 appears
+-
+"the","35%","tax","he","appears"
+1 to
+-
+"35%","tax","he","appears","to"
+1 be
+-
+"tax","he","appears","to","be"
+1 threatening
+-
+"he","appears","to","be","threatening"
+1 to
+-
+"appears","to","be","threatening","to"
+1 impose
+-
+"to","be","threatening","to","impose"
+1 on
+-
+"be","threatening","to","impose","on"
+1 imported
+-
+"threatening","to","impose","on","imported"
+1 vehicles
+-
+"to","impose","on","imported","vehicles"
+1 .
+-
+null,null,null,null,"Germans"
+1 were
+-
+null,null,null,"Germans","were"
+1 largely
+-
+null,null,"Germans","were","largely"
+1 unimpressed
+-
+null,"Germans","were","largely","unimpressed"
+1 by
+-
+"Germans","were","largely","unimpressed","by"
+1 Mr
+-
+"were","largely","unimpressed","by","Mr"
+1 Trump
+-
+"largely","unimpressed","by","Mr","Trump"
+1 during
+-
+"unimpressed","by","Mr","Trump","during"
+1 his
+-
+"by","Mr","Trump","during","his"
+1 election
+-
+"Mr","Trump","during","his","election"
+1 campaign
+-
+"Trump","during","his","election","campaign"
+1 and
+-
+"during","his","election","campaign","and"
+1 now
+-
+"his","election","campaign","and","now"
+1 despite
+-
+"election","campaign","and","now","despite"
+1 his
+-
+"campaign","and","now","despite","his"
+1 own
+-
+"and","now","despite","his","own"
+1 German
+-
+"now","despite","his","own","German"
+1 heritage
+-
+"despite","his","own","German","heritage"
+1 the
+-
+"his","own","German","heritage","the"
+1 president-elect
+-
+"own","German","heritage","the","president-elect"
+1 is
+-
+"German","heritage","the","president-elect","is"
+1 doing
+-
+"heritage","the","president-elect","is","doing"
+1 little
+-
+"the","president-elect","is","doing","little"
+1 to
+-
+"president-elect","is","doing","little","to"
+1 endear
+-
+"is","doing","little","to","endear"
+1 himself
+-
+"doing","little","to","endear","himself"
+1 .
+-
+null,null,null,null,"'Very"
+1 unfair'
+-
+null,null,null,"'Very","unfair'"
+1 Mr
+-
+null,null,"'Very","unfair'","Mr"
+1 Trump
+-
+null,"'Very","unfair'","Mr","Trump"
+1 called
+-
+"'Very","unfair'","Mr","Trump","called"
+1 Nato
+-
+"unfair'","Mr","Trump","called","Nato"
+1 [[Q-5]]
+-
+"Mr","Trump","called","Nato","[[Q-5]]"
+1 because
+-
+"Trump","called","Nato","[[Q-5]]","because"
+1 it
+-
+"called","Nato","[[Q-5]]","because","it"
+1 [[Q-6]]
+-
+"Nato","[[Q-5]]","because","it","[[Q-6]]"
+1 .
+-
+null,null,null,null,"Nato"
+1 he
+-
+null,null,null,"Nato","he"
+1 said
+-
+null,null,"Nato","he","said"
+1 was
+-
+null,"Nato","he","said","was"
+1 [[Q-7]]
+-
+"Nato","he","said","was","[[Q-7]]"
+1 to
+-
+"he","said","was","[[Q-7]]","to"
+1 him
+-
+"said","was","[[Q-7]]","to","him"
+1 but
+-
+"was","[[Q-7]]","to","him","but"
+1 only
+-
+"[[Q-7]]","to","him","but","only"
+1 five
+-
+"to","him","but","only","five"
+1 of
+-
+"him","but","only","five","of"
+1 its
+-
+"but","only","five","of","its"
+1 28
+-
+"only","five","of","its","28"
+1 member-states
+-
+"five","of","its","28","member-states"
+1 were
+-
+"of","its","28","member-states","were"
+1 paying
+-
+"its","28","member-states","were","paying"
+1 their
+-
+"28","member-states","were","paying","their"
+1 fair
+-
+"member-states","were","paying","their","fair"
+1 share
+-
+"were","paying","their","fair","share"
+1 and
+-
+"paying","their","fair","share","and"
+1 that
+-
+"their","fair","share","and","that"
+1 he
+-
+"fair","share","and","that","he"
+1 said
+-
+"share","and","that","he","said"
+1 was
+-
+"and","that","he","said","was"
+1 [[Q-8]]
+-
+"that","he","said","was","[[Q-8]]"
+1 .
+-
+null,null,null,null,"Figures"
+1 released
+-
+null,null,null,"Figures","released"
+1 by
+-
+null,null,"Figures","released","by"
+1 Nato
+-
+null,"Figures","released","by","Nato"
+1 show
+-
+"Figures","released","by","Nato","show"
+1 that
+-
+"released","by","Nato","show","that"
+1 just
+-
+"by","Nato","show","that","just"
+1 five
+-
+"Nato","show","that","just","five"
+1 member-states
+-
+"show","that","just","five","member-states"
+1 met
+-
+"that","just","five","member-states","met"
+1 or
+-
+"just","five","member-states","met","or"
+1 surpassed
+-
+"five","member-states","met","or","surpassed"
+1 its
+-
+"member-states","met","or","surpassed","its"
+1 defence
+-
+"met","or","surpassed","its","defence"
+1 spending
+-
+"or","surpassed","its","defence","spending"
+1 goal
+-
+"surpassed","its","defence","spending","goal"
+1 -
+-
+"its","defence","spending","goal","-"
+1 2%
+-
+"defence","spending","goal","-","2%"
+1 of
+-
+"spending","goal","-","2%","of"
+1 GDP
+-
+"goal","-","2%","of","GDP"
+1 -
+-
+"-","2%","of","GDP","-"
+1 last
+-
+"2%","of","GDP","-","last"
+1 year
+-
+"of","GDP","-","last","year"
+1 .
+-
+null,null,null,null,"What"
+1 will
+-
+null,null,null,"What","will"
+1 Trump's
+-
+null,null,"What","will","Trump's"
+1 foreign
+-
+null,"What","will","Trump's","foreign"
+1 policy
+-
+"What","will","Trump's","foreign","policy"
+1 look
+-
+"will","Trump's","foreign","policy","look"
+1 like
+-
+"Trump's","foreign","policy","look","like"
+1 ?
+-
+null,null,"Mr","Trump","shaking"
+1 hands
+-
+null,"Mr","Trump","shaking","hands"
+1 with
+-
+"Mr","Trump","shaking","hands","with"
+1 Michael
+-
+"Trump","shaking","hands","with","Michael"
+1 Gove
+-
+"shaking","hands","with","Michael","Gove"
+1 during
+-
+"hands","with","Michael","Gove","during"
+1 the
+-
+"with","Michael","Gove","during","the"
+1 interview
+-
+"Michael","Gove","during","the","interview"
+1 .
+-
+null,null,null,null,"Image"
+1 copyrightTHE
+-
+null,null,null,"Image","copyrightTHE"
+1 TIMES
+-
+null,null,"Image","copyrightTHE","TIMES"
+1 Image
+-
+null,"Image","copyrightTHE","TIMES","Image"
+1 caption
+-
+"Image","copyrightTHE","TIMES","Image","caption"
+1 Mr
+-
+"copyrightTHE","TIMES","Image","caption","Mr"
+1 Trump
+-
+"TIMES","Image","caption","Mr","Trump"
+1 was
+-
+"Image","caption","Mr","Trump","was"
+1 interviewed
+-
+"caption","Mr","Trump","was","interviewed"
+1 by
+-
+"Mr","Trump","was","interviewed","by"
+1 former
+-
+"Trump","was","interviewed","by","former"
+1 UK
+-
+"was","interviewed","by","former","UK"
+1 Justice
+-
+"interviewed","by","former","UK","Justice"
+1 Secretary
+-
+"by","former","UK","Justice","Secretary"
+1 Michael
+-
+"former","UK","Justice","Secretary","Michael"
+1 Gove
+-
+"UK","Justice","Secretary","Michael","Gove"
+1 for
+-
+"Justice","Secretary","Michael","Gove","for"
+1 The
+-
+"Secretary","Michael","Gove","for","The"
+1 Times
+-
+"Michael","Gove","for","The","Times"
+1 and
+1 Mr
+-
+"Gove","for","The","Times","and"
+1 Bild's
+-
+"for","The","Times","and","Bild's"
+1 Kai
+-
+"The","Times","and","Bild's","Kai"
+1 Diekmann
+-
+"Times","and","Bild's","Kai","Diekmann"
+1 Speaking
+-
+"and","Bild's","Kai","Diekmann","Speaking"
+1 in
+-
+"Bild's","Kai","Diekmann","Speaking","in"
+1 Brussels
+-
+"Kai","Diekmann","Speaking","in","Brussels"
+1 after
+-
+"Diekmann","Speaking","in","Brussels","after"
+1 consulting
+-
+"Speaking","in","Brussels","after","consulting"
+1 Nato
+-
+"in","Brussels","after","consulting","Nato"
+1 Secretary-General
+-
+"Brussels","after","consulting","Nato","Secretary-General"
+1 Jens
+-
+"after","consulting","Nato","Secretary-General","Jens"
+1 Stoltenberg
+-
+"consulting","Nato","Secretary-General","Jens","Stoltenberg"
+1 Mr
+-
+"Nato","Secretary-General","Jens","Stoltenberg","Mr"
+1 Steinmeier
+-
+"Secretary-General","Jens","Stoltenberg","Mr","Steinmeier"
+1 said
+-
+"Jens","Stoltenberg","Mr","Steinmeier","said"
+1 the
+-
+"Stoltenberg","Mr","Steinmeier","said","the"
+1 president-elect's
+-
+"Mr","Steinmeier","said","the","president-elect's"
+1 comments
+-
+"Steinmeier","said","the","president-elect's","comments"
+1 had
+-
+"said","the","president-elect's","comments","had"
+1 caused
+-
+"the","president-elect's","comments","had","caused"
+1 [[Q-9]]
+-
+"president-elect's","comments","had","caused","[[Q-9]]"
+1 .
+-
+null,null,null,null,"[[Q-10]]"
+1 the
+-
+null,null,null,"[[Q-10]]","the"
+1 German
+-
+null,null,"[[Q-10]]","the","German"
+1 foreign
+-
+null,"[[Q-10]]","the","German","foreign"
+1 minister
+-
+"[[Q-10]]","the","German","foreign","minister"
+1 said
+-
+"the","German","foreign","minister","said"
+1 .
+-
+null,null,null,null,"At"
+1 his
+-
+null,null,null,"At","his"
+1 Senate
+-
+null,null,"At","his","Senate"
+1 confirmation
+-
+null,"At","his","Senate","confirmation"
+1 hearing
+-
+"At","his","Senate","confirmation","hearing"
+1 last
+-
+"his","Senate","confirmation","hearing","last"
+1 week
+-
+"Senate","confirmation","hearing","last","week"
+1 Mr
+-
+"confirmation","hearing","last","week","Mr"
+1 Trump's
+-
+"hearing","last","week","Mr","Trump's"
+1 choice
+-
+"last","week","Mr","Trump's","choice"
+1 for
+-
+"week","Mr","Trump's","choice","for"
+1 defence
+-
+"Mr","Trump's","choice","for","defence"
+1 secretary
+-
+"Trump's","choice","for","defence","secretary"
+1 Gen
+-
+"choice","for","defence","secretary","Gen"
+1 James
+-
+"for","defence","secretary","Gen","James"
+1 Mattis
+-
+"defence","secretary","Gen","James","Mattis"
+1 had
+-
+"secretary","Gen","James","Mattis","had"
+1 described
+-
+"Gen","James","Mattis","had","described"
+1 Nato
+-
+"James","Mattis","had","described","Nato"
+1 as
+-
+"Mattis","had","described","Nato","as"
+1 central
+-
+"had","described","Nato","as","central"
+1 to
+-
+"described","Nato","as","central","to"
+1 US
+-
+"Nato","as","central","to","US"
+1 defence
+-
+"as","central","to","US","defence"
+1 and
+-
+"central","to","US","defence","and"
+1 had
+-
+"to","US","defence","and","had"
+1 accused
+-
+"US","defence","and","had","accused"
+1 Russian
+-
+"defence","and","had","accused","Russian"
+1 President
+-
+"and","had","accused","Russian","President"
+1 Vladimir
+-
+"had","accused","Russian","President","Vladimir"
+1 Putin
+-
+"accused","Russian","President","Vladimir","Putin"
+1 of
+-
+"Russian","President","Vladimir","Putin","of"
+1 trying
+-
+"President","Vladimir","Putin","of","trying"
+1 to
+-
+"Vladimir","Putin","of","trying","to"
+1 [[Q-11]]
+-
+"Putin","of","trying","to","[[Q-11]]"
+1 the
+-
+"of","trying","to","[[Q-11]]","the"
+1 alliance
+-
+"trying","to","[[Q-11]]","the","alliance"
+1 .
+-
+null,null,null,null,"Later"
+1 Mr
+-
+null,null,null,"Later","Mr"
+1 Steinmeier
+-
+null,null,"Later","Mr","Steinmeier"
+1 was
+-
+null,"Later","Mr","Steinmeier","was"
+1 quoted
+-
+"Later","Mr","Steinmeier","was","quoted"
+1 by
+-
+"Mr","Steinmeier","was","quoted","by"
+1 Reuters
+-
+"Steinmeier","was","quoted","by","Reuters"
+1 news
+-
+"was","quoted","by","Reuters","news"
+1 agency
+-
+"quoted","by","Reuters","news","agency"
+1 as
+-
+"by","Reuters","news","agency","as"
+1 saying:
+-
+"Reuters","news","agency","as","saying:"
+1 [[Q-12]]
+-
+"news","agency","as","saying:","[[Q-12]]"
+1 Media
+-
+"agency","as","saying:","[[Q-12]]","Media"
+1 captionWatch
+-
+"as","saying:","[[Q-12]]","Media","captionWatch"
+1 the
+-
+"saying:","[[Q-12]]","Media","captionWatch","the"
+1 convoy
+-
+"[[Q-12]]","Media","captionWatch","the","convoy"
+1 of
+-
+"Media","captionWatch","the","convoy","of"
+1 tanks
+-
+"captionWatch","the","convoy","of","tanks"
+1 arrive
+-
+"the","convoy","of","tanks","arrive"
+1 in
+-
+"convoy","of","tanks","arrive","in"
+1 Poland
+-
+"of","tanks","arrive","in","Poland"
+1 Only
+-
+"tanks","arrive","in","Poland","Only"
+1 last
+-
+"arrive","in","Poland","Only","last"
+1 week
+-
+"in","Poland","Only","last","week"
+1 the
+-
+"Poland","Only","last","week","the"
+1 US
+-
+"Only","last","week","the","US"
+1 deployed
+-
+"last","week","the","US","deployed"
+1 3000
+-
+"week","the","US","deployed","3000"
+1 soldiers
+-
+"the","US","deployed","3000","soldiers"
+1 80
+-
+"US","deployed","3000","soldiers","80"
+1 tanks
+-
+"deployed","3000","soldiers","80","tanks"
+1 and
+-
+"3000","soldiers","80","tanks","and"
+1 hundreds
+-
+"soldiers","80","tanks","and","hundreds"
+1 of
+-
+"80","tanks","and","hundreds","of"
+1 armoured
+-
+"tanks","and","hundreds","of","armoured"
+1 vehicles
+-
+"and","hundreds","of","armoured","vehicles"
+1 to
+-
+"hundreds","of","armoured","vehicles","to"
+1 Poland
+-
+"of","armoured","vehicles","to","Poland"
+1 in
+-
+"armoured","vehicles","to","Poland","in"
+1 a
+-
+"vehicles","to","Poland","in","a"
+1 move
+-
+"to","Poland","in","a","move"
+1 by
+-
+"Poland","in","a","move","by"
+1 President
+-
+"in","a","move","by","President"
+1 Barack
+-
+"a","move","by","President","Barack"
+1 Obama
+-
+"move","by","President","Barack","Obama"
+1 to
+-
+"by","President","Barack","Obama","to"
+1 reassure
+-
+"President","Barack","Obama","to","reassure"
+1 Nato
+-
+"Barack","Obama","to","reassure","Nato"
+1 allies
+-
+"Obama","to","reassure","Nato","allies"
+1 concerned
+-
+"to","reassure","Nato","allies","concerned"
+1 about
+-
+"reassure","Nato","allies","concerned","about"
+1 a
+-
+"Nato","allies","concerned","about","a"
+1 more
+-
+"allies","concerned","about","a","more"
+1 aggressive
+-
+"concerned","about","a","more","aggressive"
+1 Russia
+-
+"about","a","more","aggressive","Russia"
+1 .
+-
+null,null,null,null,"President"
+1 Putin's
+-
+null,null,null,"President","Putin's"
+1 official
+-
+null,null,"President","Putin's","official"
+1 spokesman
+-
+null,"President","Putin's","official","spokesman"
+1 Dmitry
+-
+"President","Putin's","official","spokesman","Dmitry"
+1 Peskov
+-
+"Putin's","official","spokesman","Dmitry","Peskov"
+1 said
+-
+"official","spokesman","Dmitry","Peskov","said"
+1 on
+-
+"spokesman","Dmitry","Peskov","said","on"
+1 Monday
+-
+"Dmitry","Peskov","said","on","Monday"
+1 it
+-
+"Peskov","said","on","Monday","it"
+1 was
+-
+"said","on","Monday","it","was"
+1 too
+-
+"on","Monday","it","was","too"
+1 early
+-
+"Monday","it","was","too","early"
+1 to
+-
+"it","was","too","early","to"
+1 give
+-
+"was","too","early","to","give"
+1 a
+-
+"too","early","to","give","a"
+1 full
+-
+"early","to","give","a","full"
+1 response
+-
+"to","give","a","full","response"
+1 to
+-
+"give","a","full","response","to"
+1 a
+-
+"a","full","response","to","a"
+1 suggestion
+-
+"full","response","to","a","suggestion"
+1 by
+-
+"response","to","a","suggestion","by"
+1 Mr
+-
+"to","a","suggestion","by","Mr"
+1 Trump
+-
+"a","suggestion","by","Mr","Trump"
+1 that
+-
+"suggestion","by","Mr","Trump","that"
+1 US
+-
+"by","Mr","Trump","that","US"
+1 sanctions
+-
+"Mr","Trump","that","US","sanctions"
+1 against
+-
+"Trump","that","US","sanctions","against"
+1 Russia
+-
+"that","US","sanctions","against","Russia"
+1 over
+-
+"US","sanctions","against","Russia","over"
+1 Ukraine
+-
+"sanctions","against","Russia","over","Ukraine"
+1 could
+-
+"against","Russia","over","Ukraine","could"
+1 be
+-
+"Russia","over","Ukraine","could","be"
+1 dropped
+-
+"over","Ukraine","could","be","dropped"
+1 in
+-
+"Ukraine","could","be","dropped","in"
+1 return
+-
+"could","be","dropped","in","return"
+1 for
+-
+"be","dropped","in","return","for"
+1 a
+-
+"dropped","in","return","for","a"
+1 nuclear
+-
+"in","return","for","a","nuclear"
+1 warhead
+-
+"return","for","a","nuclear","warhead"
+1 reduction
+-
+"for","a","nuclear","warhead","reduction"
+1 deal
+-
+"a","nuclear","warhead","reduction","deal"
+1 .
+-
+null,null,null,"Mr","Peskov"
+1 also
+-
+null,null,"Mr","Peskov","also"
+1 denied
+-
+null,"Mr","Peskov","also","denied"
+1 reports
+-
+"Mr","Peskov","also","denied","reports"
+1 Mr
+-
+"Peskov","also","denied","reports","Mr"
+1 Putin
+-
+"also","denied","reports","Mr","Putin"
+1 and
+-
+"denied","reports","Mr","Putin","and"
+1 Mr
+-
+"reports","Mr","Putin","and","Mr"
+1 Trump
+-
+"Mr","Putin","and","Mr","Trump"
+1 were
+-
+"Putin","and","Mr","Trump","were"
+1 going
+-
+"and","Mr","Trump","were","going"
+1 to
+-
+"Mr","Trump","were","going","to"
+1 hold
+-
+"Trump","were","going","to","hold"
+1 a
+-
+"were","going","to","hold","a"
+1 summit
+-
+"going","to","hold","a","summit"
+1 in
+-
+"to","hold","a","summit","in"
+1 Iceland
+-
+"hold","a","summit","in","Iceland"
+1 .
+-
+null,null,null,null,"Seven"
+1 ways
+-
+null,null,null,"Seven","ways"
+1 the
+-
+null,null,"Seven","ways","the"
+1 world
+-
+null,"Seven","ways","the","world"
+1 could
+-
+"Seven","ways","the","world","could"
+1 change
+-
+"ways","the","world","could","change"
+1 EU
+-
+"the","world","could","change","EU"
+1 'vehicle
+-
+"world","could","change","EU","'vehicle"
+1 for
+-
+"could","change","EU","'vehicle","for"
+1 Germany'
+-
+"change","EU","'vehicle","for","Germany'"
+1 Mr
+-
+"EU","'vehicle","for","Germany'","Mr"
+1 Trump
+-
+"'vehicle","for","Germany'","Mr","Trump"
+1 said
+-
+"for","Germany'","Mr","Trump","said"
+1 the
+-
+"Germany'","Mr","Trump","said","the"
+1 EU
+-
+"Mr","Trump","said","the","EU"
+1 had
+-
+"Trump","said","the","EU","had"
+1 become
+-
+"said","the","EU","had","become"
+1 [[Q-13]]
+-
+"the","EU","had","become","[[Q-13]]"
+1 .
+-
+null,null,null,null,"Referring"
+1 to
+-
+null,null,null,"Referring","to"
+1 the
+-
+null,null,"Referring","to","the"
+1 German
+-
+null,"Referring","to","the","German"
+1 chancellor's
+-
+"Referring","to","the","German","chancellor's"
+1 response
+-
+"to","the","German","chancellor's","response"
+1 to
+-
+"the","German","chancellor's","response","to"
+1 an
+-
+"German","chancellor's","response","to","an"
+1 influx
+-
+"chancellor's","response","to","an","influx"
+1 of
+-
+"response","to","an","influx","of"
+1 refugees
+-
+"to","an","influx","of","refugees"
+1 and
+-
+"an","influx","of","refugees","and"
+1 other
+-
+"influx","of","refugees","and","other"
+1 irregular
+-
+"of","refugees","and","other","irregular"
+1 migrants
+-
+"refugees","and","other","irregular","migrants"
+1 in
+-
+"and","other","irregular","migrants","in"
+1 2015
+-
+"other","irregular","migrants","in","2015"
+1 he
+-
+"irregular","migrants","in","2015","he"
+1 said:
+-
+"migrants","in","2015","he","said:"
+1 [[Q-14]]
+-
+"in","2015","he","said:","[[Q-14]]"
+1 Mrs
+-
+"2015","he","said:","[[Q-14]]","Mrs"
+1 Merkel
+-
+"he","said:","[[Q-14]]","Mrs","Merkel"
+1 responded
+-
+"said:","[[Q-14]]","Mrs","Merkel","responded"
+1 by
+-
+"[[Q-14]]","Mrs","Merkel","responded","by"
+1 saying
+-
+"Mrs","Merkel","responded","by","saying"
+1 the
+-
+"Merkel","responded","by","saying","the"
+1 EU
+-
+"responded","by","saying","the","EU"
+1 had
+-
+"by","saying","the","EU","had"
+1 to
+-
+"saying","the","EU","had","to"
+1 take
+-
+"the","EU","had","to","take"
+1 responsibility
+-
+"EU","had","to","take","responsibility"
+1 for
+-
+"had","to","take","responsibility","for"
+1 itself
+-
+"to","take","responsibility","for","itself"
+1 .
+-
+null,null,null,null,"[[Q-15]]"
+1 she
+-
+null,null,null,"[[Q-15]]","she"
+1 said
+-
+null,null,"[[Q-15]]","she","said"
+1 in
+-
+null,"[[Q-15]]","she","said","in"
+1 Berlin
+-
+"[[Q-15]]","she","said","in","Berlin"
+1 .
+-
+null,null,null,null,"Her"
+1 Vice-Chancellor
+-
+null,null,null,"Her","Vice-Chancellor"
+1 Sigmar
+-
+null,null,"Her","Vice-Chancellor","Sigmar"
+1 Gabriel
+-
+null,"Her","Vice-Chancellor","Sigmar","Gabriel"
+1 said
+-
+"Her","Vice-Chancellor","Sigmar","Gabriel","said"
+1 Europeans
+-
+"Vice-Chancellor","Sigmar","Gabriel","said","Europeans"
+1 should
+-
+"Sigmar","Gabriel","said","Europeans","should"
+1 show
+-
+"Gabriel","said","Europeans","should","show"
+1 more
+-
+"said","Europeans","should","show","more"
+1 self-confidence
+-
+"Europeans","should","show","more","self-confidence"
+1 in
+-
+"should","show","more","self-confidence","in"
+1 dealing
+-
+"show","more","self-confidence","in","dealing"
+1 with
+-
+"more","self-confidence","in","dealing","with"
+1 Mr
+-
+"self-confidence","in","dealing","with","Mr"
+1 Trump
+-
+"in","dealing","with","Mr","Trump"
+1 .
+-
+null,null,null,null,"[[Q-16]]"
+1 he
+-
+null,null,null,"[[Q-16]]","he"
+1 told
+-
+null,null,"[[Q-16]]","he","told"
+1 Bild
+-
+null,"[[Q-16]]","he","told","Bild"
+1 .
+-
+null,null,null,null,"Media"
+1 captionDonald
+-
+null,null,null,"Media","captionDonald"
+1 Trump
+-
+null,null,"Media","captionDonald","Trump"
+1 praises
+-
+null,"Media","captionDonald","Trump","praises"
+1 the
+-
+"Media","captionDonald","Trump","praises","the"
+1 UK's
+-
+"captionDonald","Trump","praises","the","UK's"
+1 Brexit
+-
+"Trump","praises","the","UK's","Brexit"
+1 vote
+-
+"praises","the","UK's","Brexit","vote"
+1 during
+-
+"the","UK's","Brexit","vote","during"
+1 an
+-
+"UK's","Brexit","vote","during","an"
+1 interview
+-
+"Brexit","vote","during","an","interview"
+1 with
+-
+"vote","during","an","interview","with"
+1 Michael
+-
+"during","an","interview","with","Michael"
+1 Gove
+-
+"an","interview","with","Michael","Gove"
+1 for
+-
+"interview","with","Michael","Gove","for"
+1 The
+-
+"with","Michael","Gove","for","The"
+1 Times
+-
+"Gove","for","The","Times","Mr"
+1 Trump
+-
+"for","The","Times","Mr","Trump"
+1 linked
+-
+"The","Times","Mr","Trump","linked"
+1 the
+-
+"Times","Mr","Trump","linked","the"
+1 migrant
+-
+"Mr","Trump","linked","the","migrant"
+1 issue
+-
+"Trump","linked","the","migrant","issue"
+1 with
+-
+"linked","the","migrant","issue","with"
+1 Brexit
+-
+"the","migrant","issue","with","Brexit"
+1 suggesting
+-
+"migrant","issue","with","Brexit","suggesting"
+1 it
+-
+"issue","with","Brexit","suggesting","it"
+1 was
+-
+"with","Brexit","suggesting","it","was"
+1 a
+-
+"Brexit","suggesting","it","was","a"
+1 reason
+-
+"suggesting","it","was","a","reason"
+1 UK
+-
+"it","was","a","reason","UK"
+1 voters
+-
+"was","a","reason","UK","voters"
+1 opted
+-
+"a","reason","UK","voters","opted"
+1 to
+-
+"reason","UK","voters","opted","to"
+1 leave
+-
+"UK","voters","opted","to","leave"
+1 the
+-
+"voters","opted","to","leave","the"
+1 bloc
+-
+"opted","to","leave","the","bloc"
+1 .
+-
+null,null,null,null,"He"
+1 promised
+-
+null,null,null,"He","promised"
+1 a
+-
+null,null,"He","promised","a"
+1 quick
+-
+null,"He","promised","a","quick"
+1 trade
+-
+"He","promised","a","quick","trade"
+1 deal
+-
+"promised","a","quick","trade","deal"
+1 between
+-
+"a","quick","trade","deal","between"
+1 the
+-
+"quick","trade","deal","between","the"
+1 US
+-
+"trade","deal","between","the","US"
+1 and
+-
+"deal","between","the","US","and"
+1 the
+-
+"between","the","US","and","the"
+1 UK
+-
+"the","US","and","the","UK"
+1 after
+-
+"US","and","the","UK","after"
+1 he
+-
+"and","the","UK","after","he"
+1 takes
+-
+"the","UK","after","he","takes"
+1 office
+-
+"UK","after","he","takes","office"
+1 on
+-
+"after","he","takes","office","on"
+1 Friday
+-
+"he","takes","office","on","Friday"
+1 but
+-
+"takes","office","on","Friday","but"
+1 a
+-
+"office","on","Friday","but","a"
+1 European
+-
+"on","Friday","but","a","European"
+1 Commission
+-
+"Friday","but","a","European","Commission"
+1 spokeswoman
+-
+"but","a","European","Commission","spokeswoman"
+1 reiterated
+-
+"a","European","Commission","spokeswoman","reiterated"
+1 that
+-
+"European","Commission","spokeswoman","reiterated","that"
+1 the
+-
+"Commission","spokeswoman","reiterated","that","the"
+1 UK
+-
+"spokeswoman","reiterated","that","the","UK"
+1 would
+-
+"reiterated","that","the","UK","would"
+1 not
+-
+"that","the","UK","would","not"
+1 be
+-
+"the","UK","would","not","be"
+1 allowed
+-
+"UK","would","not","be","allowed"
+1 to
+-
+"would","not","be","allowed","to"
+1 engage
+-
+"not","be","allowed","to","engage"
+1 in
+-
+"be","allowed","to","engage","in"
+1 formal
+-
+"allowed","to","engage","in","formal"
+1 talks
+-
+"to","engage","in","formal","talks"
+1 involving
+-
+"engage","in","formal","talks","involving"
+1 a
+-
+"in","formal","talks","involving","a"
+1 trade
+-
+"formal","talks","involving","a","trade"
+1 deal
+-
+"talks","involving","a","trade","deal"
+1 with
+-
+"involving","a","trade","deal","with"
+1 the
+-
+"a","trade","deal","with","the"
+1 US
+-
+"trade","deal","with","the","US"
+1 until
+-
+"deal","with","the","US","until"
+1 2019
+-
+"with","the","US","until","2019"
+1 after
+-
+"the","US","until","2019","after"
+1 leaving
+-
+"US","until","2019","after","leaving"
+1 the
+-
+"until","2019","after","leaving","the"
+1 EU
+-
+"2019","after","leaving","the","EU"
+1 .
+-
+null,null,null,null,"Elsewhere"
+1 in
+-
+null,null,null,"Elsewhere","in"
+1 his
+-
+null,null,"Elsewhere","in","his"
+1 interview
+-
+null,"Elsewhere","in","his","interview"
+1 Mr
+-
+"Elsewhere","in","his","interview","Mr"
+1 Trump
+-
+"in","his","interview","Mr","Trump"
+1 Said
+-
+"his","interview","Mr","Trump","Said"
+1 Russia's
+-
+"interview","Mr","Trump","Said","Russia's"
+1 military
+-
+"Mr","Trump","Said","Russia's","military"
+1 intervention
+-
+"Trump","Said","Russia's","military","intervention"
+1 in
+-
+"Said","Russia's","military","intervention","in"
+1 Syria
+-
+"Russia's","military","intervention","in","Syria"
+1 had
+-
+"military","intervention","in","Syria","had"
+1 been
+-
+"intervention","in","Syria","had","been"
+1 [[Q-17]]
+-
+"in","Syria","had","been","[[Q-17]]"
+1 which
+-
+"Syria","had","been","[[Q-17]]","which"
+1 had
+-
+"had","been","[[Q-17]]","which","had"
+1 created
+-
+"been","[[Q-17]]","which","had","created"
+1 a
+-
+"[[Q-17]]","which","had","created","a"
+1 [[Q-18]]
+-
+"which","had","created","a","[[Q-18]]"
+1 Said
+-
+"had","created","a","[[Q-18]]","Said"
+1 Afghanistan
+-
+"created","a","[[Q-18]]","Said","Afghanistan"
+1 was
+-
+"a","[[Q-18]]","Said","Afghanistan","was"
+1 [[Q-19]]
+-
+"[[Q-18]]","Said","Afghanistan","was","[[Q-19]]"
+1 while
+-
+"Said","Afghanistan","was","[[Q-19]]","while"
+1 the
+-
+"Afghanistan","was","[[Q-19]]","while","the"
+1 offensive
+-
+"was","[[Q-19]]","while","the","offensive"
+1 to
+-
+"[[Q-19]]","while","the","offensive","to"
+1 retake
+-
+"while","the","offensive","to","retake"
+1 Mosul
+-
+"the","offensive","to","retake","Mosul"
+1 from
+-
+"offensive","to","retake","Mosul","from"
+1 so-called
+-
+"to","retake","Mosul","from","so-called"
+1 Islamic
+-
+"retake","Mosul","from","so-called","Islamic"
+1 State
+-
+"Mosul","from","so-called","Islamic","State"
+1 in
+-
+"from","so-called","Islamic","State","in"
+1 Iraq
+-
+"so-called","Islamic","State","in","Iraq"
+1 had
+-
+"Islamic","State","in","Iraq","had"
+1 turned
+-
+"State","in","Iraq","had","turned"
+1 out
+-
+"in","Iraq","had","turned","out"
+1 to
+-
+"Iraq","had","turned","out","to"
+1 be
+-
+"had","turned","out","to","be"
+1 a
+-
+"turned","out","to","be","a"
+1 disaster
+-
+"out","to","be","a","disaster"
+1 Described
+-
+"to","be","a","disaster","Described"
+1 the
+-
+"be","a","disaster","Described","the"
+1 Iran
+-
+"a","disaster","Described","the","Iran"
+1 nuclear
+-
+"disaster","Described","the","Iran","nuclear"
+1 agreement
+-
+"Described","the","Iran","nuclear","agreement"
+1 as
+-
+"the","Iran","nuclear","agreement","as"
+1 [[Q-20]]
+-
+"Iran","nuclear","agreement","as","[[Q-20]]"
+1 Likened
+-
+"nuclear","agreement","as","[[Q-20]]","Likened"
+1 the
+-
+"agreement","as","[[Q-20]]","Likened","the"
+1 US-led
+-
+"as","[[Q-20]]","Likened","the","US-led"
+1 invasion
+-
+"[[Q-20]]","Likened","the","US-led","invasion"
+1 of
+-
+"Likened","the","US-led","invasion","of"
+1 Iraq
+-
+"the","US-led","invasion","of","Iraq"
+1 in
+-
+"US-led","invasion","of","Iraq","in"
+1 2003
+-
+"invasion","of","Iraq","in","2003"
+1 to
+-
+"of","Iraq","in","2003","to"
+1 [[Q-21]]
+-
+"Iraq","in","2003","to","[[Q-21]]"
+1 Promised
+-
+"in","2003","to","[[Q-21]]","Promised"
+1 to
+-
+"2003","to","[[Q-21]]","Promised","to"
+1 [[Q-22]]
+-
+"to","[[Q-21]]","Promised","to","[[Q-22]]"
+1 Twitter
+-
+"[[Q-21]]","Promised","to","[[Q-22]]","Twitter"
+1 as
+-
+"Promised","to","[[Q-22]]","Twitter","as"
+1 president
+-
+"to","[[Q-22]]","Twitter","as","president"
+1 saying
+-
+"[[Q-22]]","Twitter","as","president","saying"
+1 [[Q-23]]
+-
+"Twitter","as","president","saying","[[Q-23]]"
+1 and
+-
+"as","president","saying","[[Q-23]]","and"
+1 respond
+-
+"president","saying","[[Q-23]]","and","respond"
+1 to
+-
+"saying","[[Q-23]]","and","respond","to"
+1 [[Q-24]]
+-
+"[[Q-23]]","and","respond","to","[[Q-24]]"
+1 news
+-
+"and","respond","to","[[Q-24]]","news"
+1 A
+-
+"respond","to","[[Q-24]]","news","A"
+1 note
+-
+"to","[[Q-24]]","news","A","note"
+1 on
+-
+"[[Q-24]]","news","A","note","on"
+1 terminology:
+-
+"news","A","note","on","terminology:"
+1 The
+-
+"A","note","on","terminology:","The"
+1 BBC
+-
+"note","on","terminology:","The","BBC"
+1 uses
+-
+"on","terminology:","The","BBC","uses"
+1 the
+-
+"terminology:","The","BBC","uses","the"
+1 term
+-
+"The","BBC","uses","the","term"
+1 migrant
+-
+"BBC","uses","the","term","migrant"
+1 to
+-
+"uses","the","term","migrant","to"
+1 refer
+-
+"the","term","migrant","to","refer"
+1 to
+-
+"term","migrant","to","refer","to"
+1 all
+-
+"migrant","to","refer","to","all"
+1 people
+-
+"to","refer","to","all","people"
+1 on
+-
+"refer","to","all","people","on"
+1 the
+-
+"to","all","people","on","the"
+1 move
+-
+"all","people","on","the","move"
+1 who
+-
+"people","on","the","move","who"
+1 have
+-
+"on","the","move","who","have"
+1 yet
+-
+"the","move","who","have","yet"
+1 to
+-
+"move","who","have","yet","to"
+1 complete
+-
+"who","have","yet","to","complete"
+1 the
+-
+"have","yet","to","complete","the"
+1 legal
+-
+"yet","to","complete","the","legal"
+1 process
+-
+"to","complete","the","legal","process"
+1 of
+-
+"complete","the","legal","process","of"
+1 claiming
+-
+"the","legal","process","of","claiming"
+1 asylum
+-
+"legal","process","of","claiming","asylum"
+1 .
+-
+null,null,null,null,"This"
+1 group
+-
+null,null,null,"This","group"
+1 includes
+-
+null,null,"This","group","includes"
+1 people
+-
+null,"This","group","includes","people"
+1 fleeing
+-
+"This","group","includes","people","fleeing"
+1 war-torn
+-
+"group","includes","people","fleeing","war-torn"
+1 countries
+-
+"includes","people","fleeing","war-torn","countries"
+1 such
+-
+"people","fleeing","war-torn","countries","such"
+1 as
+-
+"fleeing","war-torn","countries","such","as"
+1 Syria
+-
+"war-torn","countries","such","as","Syria"
+1 who
+-
+"countries","such","as","Syria","who"
+1 are
+-
+"such","as","Syria","who","are"
+1 likely
+-
+"as","Syria","who","are","likely"
+1 to
+-
+"Syria","who","are","likely","to"
+1 be
+-
+"who","are","likely","to","be"
+1 granted
+-
+"are","likely","to","be","granted"
+1 refugee
+-
+"likely","to","be","granted","refugee"
+1 status
+-
+"to","be","granted","refugee","status"
+1 as
+-
+"be","granted","refugee","status","as"
+1 well
+-
+"granted","refugee","status","as","well"
+1 as
+-
+"refugee","status","as","well","as"
+1 people
+-
+"status","as","well","as","people"
+1 who
+-
+"as","well","as","people","who"
+1 are
+-
+"well","as","people","who","are"
+1 seeking
+-
+"as","people","who","are","seeking"
+1 jobs
+-
+"people","who","are","seeking","jobs"
+1 and
+-
+"who","are","seeking","jobs","and"
+1 better
+-
+"are","seeking","jobs","and","better"
+1 lives
+-
+"seeking","jobs","and","better","lives"
+1 who
+-
+"jobs","and","better","lives","who"
+1 governments
+-
+"and","better","lives","who","governments"
+1 are
+-
+"better","lives","who","governments","are"
+1 likely
+-
+"lives","who","governments","are","likely"
+1 to
+-
+"who","governments","are","likely","to"
+1 rule
+-
+"governments","are","likely","to","rule"
+1 are
+-
+"are","likely","to","rule","are"
+1 economic
+-
+"likely","to","rule","are","economic"
+1 .
+-

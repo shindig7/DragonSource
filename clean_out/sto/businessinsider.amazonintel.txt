@@ -1,0 +1,61 @@
+
+
+Thalmic Labs, the startup behind the Myo muscle-sensing armband, which lets you control a computer with a wave, came into 2017 in a big way.
+
+In the last few months of 2016, the Y Combinator-backed company made a bunch of big moves, including:
+
+A $120 million USD investment from Intel Capital, the Amazon Alexa Fund, and Fidelity Investments Canada — making it Canada's single biggest funding round of 2016.
+Hiring Samsung veteran Tara Kriese as its CMO and former Under Armour wearable devices head Abhi Bhatt as VP of Product Experience. All in all, Thalmic now has around 100 employees.
+Opening a 50,000 square-foot manufacturing facility in Waterloo, where BlackBerry makes its headquarters, staffed up by former employees of the one-time smartphone giant. That factory is preparing for the launch of Thalmic's next, yet-to-be-announced product.
+If you haven't seen the Myo in action, it's pretty incredible (even Silicon Valley VCs think so). It senses the tension of your muscles as you move, letting you control electronics with a gesture or a wave:
+
+
+In real life, Myo is being used by surgeons in Spain to navigate medical records while in the middle of surgery, by researchers at Johns Hopkins for experiments in prosthetic control, and by a small but growing army of developers who are finding new and interesting ways to use it every day.
+
+In an age where Facebook's Oculus Rift virtual reality headset, Microsoft's HoloLens face display, Magic Leap's still-mysterious technology, and even Amazon's Alexa assistant are changing the notion of what a computer even looks like, Thalmic Labs CEO Stephen Lake says that the mission is clear — "how do we interact with the next generation of computers?"
+
+Lake says that the opportunity is huge: Thalmic's technology can set the standard and be "sort of the mouse for wearable computers," providing a foundation for interaction with the devices of tomorrow.
+
+myo and drone thalmic labs
+Using the Myo armband to control a droneThalmic Labs
+
+At stake, Lake says, is a "dystopian future" where "what we percieve and see is taken over" by computers that make choices for us, for lack of a good way to control them. With the right tools, though, he says that there's real opportunity for computers to "make us more powerful in the physical world." Put another way: If you don't control the computer, it will control you.
+
+'Quite literally over beers we put it together'
+Circa 2011, Lake and his future cofounders Matthew Bailey and Aaron Grant were robotics grad students at the University of Waterloo. A year before Google unveiled the ultimately doomed Google Glass, the trio saw the writing on the wall and knew that the era of wearable computers was nearing.
+
+"We started working on it before [Google] Glass was even announced," Lake says.
+
+That era would require something new, beyond just the mouse and keyboard, Lake says. And while companies like Nintendo and Microsoft had made some efforts in that direction with the Nintendo Wii or the Xbox Kinect, they were either too cumbersome to carry around, too inaccurate, or both.Myo armband
+Myo armband used with prostheticsBusiness Insider
+Why Amazon and Intel are betting big on a startup that could succeed where Microsoft's Kinect failed
+
+
+And besides, as Lake points out, those products needed an external sensor, like the Xbox Kinect's camera, to function. It would only work if you were standing in front of the TV, and even then, didn't work flawlessly every time.
+
+After all, nobody wants to carry a controller around with them in their pockets for their face-mounted display, and nobody wants to wave wildly at their screen to make things happen. If nothing else, those things are just plain rude in polite society. Besides, waving a remote around is more tiring than it looks.
+
+"You need a very subtle way to interact with these devices," Lake says.
+
+kinect
+Xbox KinectFlickr
+
+Following some false starts, the team got together and assembled the proof-of-concept for what became the Myo armband, leading in turn to the formation of Thalmic Labs in 2012. 
+
+"Quite literally, over beers, we put it together," says Lake. 
+
+Because the Myo is something you wear, Lake says, it's always with you, and always works, even if there's not a camera in sight. It's the same idea as the Xbox Kinect and other interfaces like it — using gestures to control computers — but in a self-contained and more reliable package.
+
+The next step
+Tactically, Lake says that Thalmic Labs has some big advantages as it turns its philosophy of human/computer interaction into a big business.
+
+First and most pressingly, as a neighbor to BlackBerry, there's no shortage of available hardware and software talent around Thalmic's headquarters. As the former smartphone giant continues its long decline, Lake says that there are plenty of seasoned experts available locally to hire.
+
+As a nice side effect, this means that while Thalmic Labs has a San Francisco satellite office, it's been able to maintain its headquarters in Ontario, where living expenses and costs of doing business are lower, Lake says.
+
+thalmic myo presentations classroom
+Using Myo to control slides in a presentationThalmic Labs
+
+Second, Thalmic has no intentions of letting this new market get out from under it. Making mice and keyboard for laptops is generally a lousy business. It's low margin because there are so many, and they're all basically the same.
+
+To keep the Myo and whatever comes next from meeting that fate, Lake says, it's critical that Thalmic takes control of the whole equation, from research to software to hardware design to manufacture, hence the big investment in the factory. 

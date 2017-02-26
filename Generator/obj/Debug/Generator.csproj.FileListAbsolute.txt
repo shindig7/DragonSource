@@ -1,0 +1,8 @@
+c:\users\great_000\documents\visual studio 2015\Projects\CodeFest2017\Generator\bin\Debug\Generator.exe.config
+c:\users\great_000\documents\visual studio 2015\Projects\CodeFest2017\Generator\bin\Debug\Generator.exe
+c:\users\great_000\documents\visual studio 2015\Projects\CodeFest2017\Generator\bin\Debug\Generator.pdb
+c:\users\great_000\documents\visual studio 2015\Projects\CodeFest2017\Generator\bin\Debug\MCL.dll
+c:\users\great_000\documents\visual studio 2015\Projects\CodeFest2017\Generator\bin\Debug\MCL.pdb
+c:\users\great_000\documents\visual studio 2015\Projects\CodeFest2017\Generator\obj\Debug\Generator.csprojResolveAssemblyReference.cache
+c:\users\great_000\documents\visual studio 2015\Projects\CodeFest2017\Generator\obj\Debug\Generator.exe
+c:\users\great_000\documents\visual studio 2015\Projects\CodeFest2017\Generator\obj\Debug\Generator.pdb

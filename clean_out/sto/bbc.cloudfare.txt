@@ -1,0 +1,23 @@
+Cloudflare bug data leak exposed
+
+Private messages exchanged on dating sites, hotel bookings and frames from adult videos were among the data inadvertently exposed by a bug discovered in the Cloudflare network.
+The firm protects websites by routing their traffic through its own network, filtering out hack attacks.
+It has 4 million clients, including banks, governments and shopping sites.
+Customers wouldn't necessarily know which of the online services they use run on Cloudflare as it is not visible.
+The bug came to light while Cloudflare was migrating from older to newer software between 13 - 18 February.
+Chief operating officer John Graham-Cumming said it was likely that in the last week, around 120,000 web pages per day may have contained some unencrypted private data, along with other junk text, along the bottom.
+He told the BBC there was no evidence yet that the data had been used maliciously.
+"I can't tell you it's zero probability that nobody saw something and did something mischievous," he said.
+"I am not changing any of my passwords. I think the probability that somebody saw something is so low it's not something I am concerned about."
+'Ancient software'
+Mr Graham-Cumming has written a blog about what went wrong and how Cloudflare fixed it.
+"Unfortunately, it was the ancient piece of software that contained a latent security problem and that problem only showed up as we were in the process of migrating away from it," he wrote.
+The firm, whose strapline is "make the internet work the way it should", has also been working with the major search engines to get the data scrubbed from their caches - snapshots taken of pages at various times.
+It was discovered by Google engineer Tavis Ormandy, who compared it to the 2014 Heartbleed bug.
+"We keep finding more sensitive data that we need to clean up," he wrote in a log of the discovery.
+"The examples we're finding are so bad, I cancelled some weekend plans to go into the office on Sunday to help build some tools to clean up."
+Dodged bullet
+Cybersecurity expert Prof Alan Woodward said the bug had been caused by "a few lines of errant code".
+"When you consider the millions of lines of code that are protecting us out there on the web, it makes you realise that there are bound to be other problems likely to be waiting to be found," he said.
+"It's too soon to tell exactly what damage may have been done, but because of the way in which this was found the chances of individuals being compromised is relatively small.
+"What it shows, bigly, is that we may have just dodged a bullet."

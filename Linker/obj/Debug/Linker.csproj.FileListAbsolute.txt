@@ -1,0 +1,8 @@
+c:\users\great_000\documents\visual studio 2015\Projects\CodeFest2017\Linker\bin\Debug\Linker.exe.config
+c:\users\great_000\documents\visual studio 2015\Projects\CodeFest2017\Linker\bin\Debug\Linker.exe
+c:\users\great_000\documents\visual studio 2015\Projects\CodeFest2017\Linker\bin\Debug\Linker.pdb
+c:\users\great_000\documents\visual studio 2015\Projects\CodeFest2017\Linker\bin\Debug\MCL.dll
+c:\users\great_000\documents\visual studio 2015\Projects\CodeFest2017\Linker\bin\Debug\MCL.pdb
+c:\users\great_000\documents\visual studio 2015\Projects\CodeFest2017\Linker\obj\Debug\Linker.csprojResolveAssemblyReference.cache
+c:\users\great_000\documents\visual studio 2015\Projects\CodeFest2017\Linker\obj\Debug\Linker.exe
+c:\users\great_000\documents\visual studio 2015\Projects\CodeFest2017\Linker\obj\Debug\Linker.pdb

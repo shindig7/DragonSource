@@ -1,0 +1,173 @@
+null,null,null,null,null
+1 [[Q-1]]
+1 Returning
+1 [[Q-2]]
+-
+null,null,null,null,"[[Q-1]]"
+1 he
+-
+null,null,null,"[[Q-1]]","he"
+1 said
+-
+null,null,"[[Q-1]]","he","said"
+1 .
+-
+null,null,null,null,"Returning"
+1 from
+-
+null,null,null,"Returning","from"
+1 a
+-
+null,null,"Returning","from","a"
+1 Black
+-
+null,"Returning","from","a","Black"
+1 History
+-
+"Returning","from","a","Black","History"
+1 Month
+-
+"from","a","Black","History","Month"
+1 event
+-
+"a","Black","History","Month","event"
+1 in
+-
+"Black","History","Month","event","in"
+1 Jamaica
+-
+"History","Month","event","in","Jamaica"
+1 Muhammad
+-
+"Month","event","in","Jamaica","Muhammad"
+1 Ali
+-
+"event","in","Jamaica","Muhammad","Ali"
+1 Jr
+-
+"in","Jamaica","Muhammad","Ali","Jr"
+1 and
+-
+"Jamaica","Muhammad","Ali","Jr","and"
+1 his
+-
+"Muhammad","Ali","Jr","and","his"
+1 mother
+-
+"Ali","Jr","and","his","mother"
+1 Khalilah
+-
+"Jr","and","his","mother","Khalilah"
+1 Camacho
+-
+"and","his","mother","Khalilah","Camacho"
+1 Ali
+-
+"his","mother","Khalilah","Camacho","Ali"
+1 were
+-
+"mother","Khalilah","Camacho","Ali","were"
+1 pulled
+-
+"Khalilah","Camacho","Ali","were","pulled"
+1 aside
+-
+"Camacho","Ali","were","pulled","aside"
+1 and
+-
+"Ali","were","pulled","aside","and"
+1 separated
+-
+"were","pulled","aside","and","separated"
+1 from
+-
+"pulled","aside","and","separated","from"
+1 each
+-
+"aside","and","separated","from","each"
+1 other
+-
+"and","separated","from","each","other"
+1 while
+-
+"separated","from","each","other","while"
+1 going
+-
+"from","each","other","while","going"
+1 through
+-
+"each","other","while","going","through"
+1 the
+-
+"other","while","going","through","the"
+1 immigration
+-
+"while","going","through","the","immigration"
+1 checkpoint
+-
+"going","through","the","immigration","checkpoint"
+1 on
+-
+"through","the","immigration","checkpoint","on"
+1 February
+-
+"the","immigration","checkpoint","on","February"
+1 7
+-
+"immigration","checkpoint","on","February","7"
+1 at
+-
+"checkpoint","on","February","7","at"
+1 Fort
+-
+"on","February","7","at","Fort"
+1 Lauderdale-Hollywood
+-
+"February","7","at","Fort","Lauderdale-Hollywood"
+1 International
+-
+"7","at","Fort","Lauderdale-Hollywood","International"
+1 Airport
+-
+"at","Fort","Lauderdale-Hollywood","International","Airport"
+1 said
+-
+"Fort","Lauderdale-Hollywood","International","Airport","said"
+1 Chris
+-
+"Lauderdale-Hollywood","International","Airport","said","Chris"
+1 Mancini
+-
+"International","Airport","said","Chris","Mancini"
+1 a
+-
+"Airport","said","Chris","Mancini","a"
+1 family
+-
+"said","Chris","Mancini","a","family"
+1 friend
+-
+"Chris","Mancini","a","family","friend"
+1 and
+-
+"Mancini","a","family","friend","and"
+1 attorney
+-
+"a","family","friend","and","attorney"
+1 .
+-
+null,null,null,null,"[[Q-2]]"
+1 Mr
+-
+null,null,null,"[[Q-2]]","Mr"
+1 Mancini
+-
+null,null,"[[Q-2]]","Mr","Mancini"
+1 said
+-
+null,"[[Q-2]]","Mr","Mancini","said"
+1 .
+-
+"[[Q-2]]","Mr","Mancini","said","."
+1 .
+-

@@ -1,0 +1,35 @@
+What will voice-enabled internet mean for journalism?
+
+In 1899, The Associated Press used Guglielmo Marconi’s wireless telegraph to cover the America’s Cup yacht race in New Jersey, the first news transmission test of what would later be called “radio.” Today, we’re once again enabling the exploration of audio news – this time in a new field: voice-activated technologies.
+
+From point-and-click to voice-enabled commands
+
+The internet used to be in a “point-and-click” phase where desktop websites flourished, but now it’s in a “touch” phase as mobile devices and apps have increased digital access to content and services.
+
+Soon, voice commands will usher in a third phase through the “internet of things” and all types of connected devices and experiences. These commands carry promise and the potential to link the fragmented on-demand experiences we see emerging in connected cars, homes and voice assistants.
+
+Global revenue estimates from the smart audio market have increased to $5 billion by 2020, up from $1 billion this year, according to Juniper Research. Devices in our homes (think smart refrigerators) are forecasted to be the biggest driver of growth.
+
+“Audio is a powerful interface for connected ecosystems,” said Mari Joller, founder and CEO of voice-technology company Scarlet. “Other than being efficient – your hands and eyes are free – and often the only viable option for certain use cases like driving, it is also perhaps the most human way to communicate information.”
+
+How do voice-activated systems work?
+
+While these devices can recognize that someone is speaking to them, they cannot necessarily understand what those words mean. The challenging part appears when the system needs to make sense of “What did the president say today?” That requires natural language processing, which is driven by definitions and relationships between words.
+
+The most fascinating opportunity involving natural language processing is the ability to ask specific questions and receive answers. In order to deliver, a smart device needs to analyze the words in a question, retrieve the right answer from a specific data set such as a news archive or feed (like weather forecasts or sports scores), and finally utilize text-to-speech technology to speak back to the user.
+
+amazon-echo-276130237705
+A look at the Amazon Echo Dot, a voice-controlled assistant that can help with everyday tasks. (AP Photo/Jeff Chiu)
+It’s likely that news consumers will be able to stop and rewind particular stories on demand in the future. For example, if I asked, “I heard there was an earthquake today. Can you tell me more about it?,” a device would be able to surface a relevant news article or video and then play it to me on command.
+
+“It’s a very exciting time for voice assistants and on-demand audio news,” said Tom Januszewski, a director of business development with AP. “The Amazon Echo, in particular, has surprised everyone with its broad acceptance, and the large number of news organizations already participating on the platform.
+
+“It shows these news organizations recognize the importance of the technology and that they want to get in early.”
+
+What are the ethics surrounding voice-enabled platforms?
+
+According to Victor Vina, an assistant professor at the Pratt Institute, these smart devices raise the idea of “ubiquitous computing,” where we’re surrounded by technology without even realizing it. But we still know very little about the psychological effects of using these devices.
+
+“What are the benefits to our personal lives?” he asked. “As artificial intelligence evolves, it is crucial to consider values such as empathy, identity and privacy, in addition to intelligence, efficiency and productivity.”
+
+As this technology advances, we’ll be experimenting to find what works best for delivering news on such devices.

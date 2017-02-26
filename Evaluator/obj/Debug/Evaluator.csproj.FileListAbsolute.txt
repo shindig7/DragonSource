@@ -1,0 +1,8 @@
+c:\users\great_000\documents\visual studio 2015\Projects\CodeFest2017\Evaluator\bin\Debug\Evaluator.exe.config
+c:\users\great_000\documents\visual studio 2015\Projects\CodeFest2017\Evaluator\bin\Debug\Evaluator.exe
+c:\users\great_000\documents\visual studio 2015\Projects\CodeFest2017\Evaluator\bin\Debug\Evaluator.pdb
+c:\users\great_000\documents\visual studio 2015\Projects\CodeFest2017\Evaluator\bin\Debug\MCL.dll
+c:\users\great_000\documents\visual studio 2015\Projects\CodeFest2017\Evaluator\bin\Debug\MCL.pdb
+c:\users\great_000\documents\visual studio 2015\Projects\CodeFest2017\Evaluator\obj\Debug\Evaluator.csprojResolveAssemblyReference.cache
+c:\users\great_000\documents\visual studio 2015\Projects\CodeFest2017\Evaluator\obj\Debug\Evaluator.exe
+c:\users\great_000\documents\visual studio 2015\Projects\CodeFest2017\Evaluator\obj\Debug\Evaluator.pdb

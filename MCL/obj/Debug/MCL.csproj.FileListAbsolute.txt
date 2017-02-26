@@ -1,0 +1,5 @@
+c:\users\great_000\documents\visual studio 2015\Projects\CodeFest2017\MCL\bin\Debug\MCL.dll
+c:\users\great_000\documents\visual studio 2015\Projects\CodeFest2017\MCL\bin\Debug\MCL.pdb
+c:\users\great_000\documents\visual studio 2015\Projects\CodeFest2017\MCL\obj\Debug\MCL.dll
+c:\users\great_000\documents\visual studio 2015\Projects\CodeFest2017\MCL\obj\Debug\MCL.pdb
+c:\users\great_000\documents\visual studio 2015\Projects\CodeFest2017\MCL\obj\Debug\MCL.csprojResolveAssemblyReference.cache

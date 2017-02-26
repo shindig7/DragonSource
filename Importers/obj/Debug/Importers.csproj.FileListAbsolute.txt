@@ -1,0 +1,6 @@
+c:\users\great_000\documents\visual studio 2015\Projects\CodeFest2017\Importers\bin\Debug\Importers.exe.config
+c:\users\great_000\documents\visual studio 2015\Projects\CodeFest2017\Importers\bin\Debug\Importers.exe
+c:\users\great_000\documents\visual studio 2015\Projects\CodeFest2017\Importers\bin\Debug\Importers.pdb
+c:\users\great_000\documents\visual studio 2015\Projects\CodeFest2017\Importers\obj\Debug\Importers.csprojResolveAssemblyReference.cache
+c:\users\great_000\documents\visual studio 2015\Projects\CodeFest2017\Importers\obj\Debug\Importers.exe
+c:\users\great_000\documents\visual studio 2015\Projects\CodeFest2017\Importers\obj\Debug\Importers.pdb

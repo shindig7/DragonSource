@@ -11,7 +11,7 @@ def main():
     url_list=[]
     # The original query URL. As a free user of the API, I was not allowed to dynamically call the API more than the set limit
     # url = 'https://access.alchemyapi.com/calls/data/GetNews?apikey=16f12887c8dab2166c6bec9f62ccc3030342a016&return=enriched.url.url&start=1487462400&end=1488150000&q.enriched.url.enrichedTitle.taxonomy.taxonomy_.label=law,%20govt%20and%20politics&count=100&outputMode=json'
-    tree = ET.parse('C:\Users\eagle\Documents\GitHub\AlchemyXMLResult(1).txt')
+    tree = ET.parse('C:\Users\eagle\Documents\GitHub\DragonSource\AlchemyXMLResult(1).txt')
     root = tree.getroot()
     for x in xrange(987):
         try:
